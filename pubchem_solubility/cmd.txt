@@ -1,0 +1,1 @@
+/Applications/ChemAxon/MarvinBeans6/bin/cxcalc -i ID LogD -H 7.4 pubchem_sol.sdf
