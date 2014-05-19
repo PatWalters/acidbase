@@ -7,5 +7,6 @@ doPlot<-function(){
 	l = read.table("pubchem_sol.logd",header=TRUE,row.names=1)
 	csvl = merge(csv,l,by=0)
 	csvlc = colorByLogD(csvl,2,4)
-	beeswarm(SOL~STATE_50,csvlc,method="hex",corral="gutter",cex=0.5,pwcol=csvlc$COL,pch=16,ylab="Log Solubility (uM)",xlab="")
+	beeswarm(SOL~STATE_50,csvlc,method="hex",corral="gutter",cex=0.5,pwcol=csvlc$COL,pch=16,ylab="Log Solubility (uM)",xlab="",labels=c("Acidic","Basic","Neutral","Zwitterionic"))
+	bxplot(SOL~STATE_50,csvlc,add=TRUE)
 }
