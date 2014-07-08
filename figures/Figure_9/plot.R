@@ -1,0 +1,26 @@
+library(reshape2)
+library(ggplot2)
+wordwrap<-function(x,len) paste(strwrap(x,width=len),collapse="\n")
+
+d = read.csv("drugbank_atc.csv",header=TRUE)
+d$ATC = sapply(d$ATC,wordwrap,len=20)
+dd = d
+dd = d[order(d$NUM,decreasing=TRUE),][,-2]
+dd[,1] = paste(d[,1],"\n",as.character(d[,2]))
+names(dd) = c("ATC","Acidic","Basic","Neutral","Zwitterionic")
+aa = melt(dd)
+aa$ATC = factor(aa$ATC,levels=dd$ATC)
+
+g = ggplot(aa,aes(x=ATC,y=value,fill=variable)) 
+g = g + geom_bar(stat="identity",colour="black") 
+g = g + ylab("Fraction") 
+g = g + scale_fill_manual(values=c("violetred1","lightblue","grey","mediumorchid1")) 
+g = g + theme_bw() 
+g = g + theme(legend.title=element_blank()) 
+g = g + xlab("ATC Classification") 
+g = g + theme(plot.title=element_blank())
+g = g + theme(axis.title.x = element_text(size=20),axis.text.x = element_text(size=16))
+g = g + theme(axis.title.y = element_text(size=20),axis.text.y = element_text(size=16))
+g = g + theme(legend.title=element_blank())
+g = g + theme(axis.text.x = element_text(size=14,angle=45,hjust=1),axis.text.y = element_text(size=18)) + labs(title="ATC Classification")
+g = g + theme(legend.text = element_text(size=18))

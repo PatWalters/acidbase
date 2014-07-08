@@ -1,0 +1,15 @@
+library(beeswarm)
+source("../lib/beeswarm_with_stats.R")
+x = beeswarmWithStats("oatp1b1_combined_desc.csv","OATP1B1\nColored by CLogD","% Ihibition","LOGD_COLOR",1,ylim=c(-50,100))
+x = beeswarmWithStats("oatp1b3_combined_desc.csv","OATP1B3\nColored by CLogD","% Ihibition","LOGD_COLOR",2,ylim=c(-50,100))	
+x = beeswarmWithStats("oatp2b1_combined_desc.csv","OATP2B1\nColored by CLogD","% Ihibition","LOGD_COLOR",1,ylim=c(-50,100))
+plot.new()
+x = beeswarmWithStats("oatp1b1_combined_desc.csv","OATP1B1\nColored by CLogP","% Ihibition","LOGP_COLOR",1,ylim=c(-50,100))
+x = beeswarmWithStats("oatp1b3_combined_desc.csv","OATP1B3\nColored by CLogP","% Ihibition","LOGP_COLOR",2,ylim=c(-50,100))	
+x = beeswarmWithStats("oatp2b1_combined_desc.csv","OATP2B1\nColored by CLogP","% Ihibition","LOGP_COLOR",1,ylim=c(-50,100))
+plot.new()
+x = beeswarmWithStats("oatp1b1_combined_desc.csv","OATP1B1\nColored by Molecular Weight","% Ihibition","MW_COLOR",1,ylim=c(-50,100))
+x = beeswarmWithStats("oatp1b3_combined_desc.csv","OATP1B3\nColored by Molecular Weight","% Ihibition","MW_COLOR",2,ylim=c(-50,100))	
+x = beeswarmWithStats("oatp2b1_combined_desc.csv","OATP2B1\nColored by Molecular Weight","% Ihibition","MW_COLOR",1,ylim=c(-50,100))
+
+
