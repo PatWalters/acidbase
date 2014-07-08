@@ -1,0 +1,2 @@
+cat target_class_combined_lt_5000a* > target_class_combined_lt_5000.csv
+cat target_class_combined_lt_100a* > target_class_combined_lt_100.csv
