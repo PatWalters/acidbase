@@ -1,0 +1,511 @@
+nM,105645,7797,Unclassified protein,9.14,3.77,neutral,neutral,neutral,3.08
+929319,CC(C)c1cccc(NC(=O)Nc2ccc(Oc3ncnc4[nH]ncc34)cc2)c1,1522501,943682,7730.0,=,nM,105645,7797,Unclassified protein,9.14,3.77,neutral,neutral,neutral,4.18
+929320,O=C(Nc1ccccc1)Nc2ccc(Oc3ncnc4[nH]ncc34)cc2,1522493,943682,20230.0,=,nM,105645,7797,Unclassified protein,9.14,3.77,neutral,neutral,neutral,2.94
+929321,CCCCCCCCCCCCCCCC(=O)NC[C@H](NC(=O)CNC(=O)CCNc1ccc(c2nonc12)[N+](=O)[O-])C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,1522510,943688,2000.0,=,nM,105647,7799,Unclassified protein,3.51,10.66,zwiterionic,zwiterionic,zwiterionic,-4.07
+929322,CCCCCCCCCCCCCCCC(=O)NC[C@H](NC(=O)CNC(=O)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,1522509,943689,10000.0,=,nM,105647,7799,Unclassified protein,3.51,10.66,zwiterionic,zwiterionic,zwiterionic,-4.74
+929323,Cc1ccc(C)n1[C@@H](CC(=O)O)c2ccsc2,1527234,944630,32000.0,=,nM,105652,7804,Unclassified protein,5.09,,acidic,acidic,acidic,0.67
+929324,Cc1ccc(C)n1[C@@H](CC(=O)O)Cc2c[nH]c3ccccc23,1527233,944630,28000.0,=,nM,105652,7804,Unclassified protein,4.91,,acidic,acidic,acidic,1.11
+929325,Cc1ccc(C)n1[C@@H](CC(=O)O)c2ccc3OCOc3c2,1527232,944630,30000.0,=,nM,105652,7804,Unclassified protein,4.13,-4.74,acidic,acidic,acidic,-0.28
+929326,CC(C)N(CCNc1ccc(cn1)c2cc(c3ccc(F)cc3)n(n2)c4ccc(Cl)c(Cl)c4)C(C)C,1527490,947251,1100.0,=,nM,105660,7812,Unclassified protein,,9.88,basic,basic,basic,4.98
+929327,C[C@H](NC(=O)c1sccc1OCc2ccc(Cl)cc2)c3ccccc3,1527489,947251,620.0,=,nM,105660,7812,Unclassified protein,13.05,-2.66,neutral,neutral,neutral,5.27
+929328,Cc1nc(C(=O)NCC(=O)O)c(O)c2ccc(Oc3ccccc3)cc12,1528018,947323,9800.0,=,nM,105661,7813,Unclassified protein,3.35,2.24,acidic,acidic,acidic,-0.86
+929329,OC(=O)[C@@H](Cc1ccccc1)NC(=O)c2nc(Cl)c3ccccc3c2O,1528016,947323,38000.0,=,nM,105661,7813,Unclassified protein,3.54,-2.13,acidic,acidic,acidic,0.32
+929330,OC(=O)CNC(=O)c1ncc(cc1O)c2ccc3ccccc3c2,1528015,947323,43000.0,=,nM,105661,7813,Unclassified protein,3.14,1.16,acidic,acidic,acidic,-1.07
+929331,OC(=O)CNC(=O)c1ncccc1O,705556,947323,15000.0,=,nM,105661,7813,Unclassified protein,2.94,1.51,acidic,acidic,acidic,-3.68
+929332,CNS(=O)(=O)c1ccc(O)c2ncccc12,1528012,947323,18000.0,=,nM,105661,7813,Unclassified protein,8.06,2.3,neutral,neutral,neutral,0.57
+929333,NS(=O)(=O)c1ccc(O)c2ncccc12,1528011,947323,23000.0,=,nM,105661,7813,Unclassified protein,8.07,2.32,neutral,neutral,neutral,0.35
+929334,[Na+].Nc1c2C(=O)c3ccccc3C(=O)c2c(Br)cc1S(=O)(=O)[O-],438898,947323,11000.0,=,nM,105661,7813,Unclassified protein,-2.78,-1.64,acidic,acidic,acidic,0.31
+929335,OC(=O)c1ccc2C(=O)c3cccc(O)c3C(=O)c2c1O,1528010,947323,9000.0,=,nM,105661,7813,Unclassified protein,2.33,-5.65,acidic,acidic,acidic,0.34
+929336,NC1=N[C@]2(C[C@H]2CCS1)c3cc(NC(=O)c4ccc(Cl)cn4)ccc3Cl,1521333,947398,690.0,=,nM,105662,7814,Unclassified protein,11.91,9.07,basic,basic,basic,3.21
+929337,CCCCCCCCNC(=O)N1C=C(F)C(=O)N(C(=O)OC)C1=O,1522699,949261,4.0,=,nM,105666,7818,Unclassified protein,13.69,,neutral,neutral,neutral,2.93
+929338,CCCCCCCCCNC(=O)N1C=CC(=O)NC1=O,1522698,949261,464.0,=,nM,105666,7818,Unclassified protein,9.51,-5.89,neutral,neutral,neutral,2.57
+929339,CCCCCCCCNC(=O)N1C=C(C(=O)NC1=O)C(F)(F)F,1522697,949261,7.0,=,nM,105666,7818,Unclassified protein,7.4,-6.73,acidic,acidic,neutral,2.59
+929340,CCCCCCCCNC(=O)N1C=CC(=O)NC1=O,1522696,949261,283.0,=,nM,105666,7818,Unclassified protein,9.51,-5.89,neutral,neutral,neutral,2.12
+929341,CCCCCCCCNC(=O)N1C=C(F)C(=O)NC1=O,1522695,949261,46.0,=,nM,105666,7818,Unclassified protein,7.48,-8.35,acidic,neutral,neutral,2.07
+929342,CCCCCCCNC(=O)N1C=CC(=O)NC1=O,1522694,949261,325.0,=,nM,105666,7818,Unclassified protein,9.51,-5.89,neutral,neutral,neutral,1.68
+929343,CCCCCNC(=O)N1C=CC(=O)NC1=O,1522693,949261,2100.0,=,nM,105666,7818,Unclassified protein,9.51,-5.89,neutral,neutral,neutral,0.79
+929344,CCCCNC(=O)N1C=CC(=O)NC1=O,1522692,949261,8500.0,=,nM,105666,7818,Unclassified protein,9.51,-5.89,neutral,neutral,neutral,0.34
+929345,CCCCCCNC(=O)N1C=C(F)C(=O)N(C(=O)c2ccccc2)C1=O,1522691,949261,20.0,=,nM,105666,7818,Unclassified protein,13.57,,neutral,neutral,neutral,3.28
+929346,CCCCCCNC(=O)N1C=C(F)C(=O)N(C(=O)OCC(C)C)C1=O,1522690,949261,16.0,=,nM,105666,7818,Unclassified protein,13.75,,neutral,neutral,neutral,3.29
+929347,CCCCCCNC(=O)N1C=C(F)C(=O)N(C(=O)OCC)C1=O,1522689,949261,12.0,=,nM,105666,7818,Unclassified protein,13.62,,neutral,neutral,neutral,2.4
+929348,CCCCCCNC(=O)N1C=C(F)C(=O)N(C(=O)OC)C1=O,1522688,949261,7.0,=,nM,105666,7818,Unclassified protein,13.55,,neutral,neutral,neutral,2.04
+929349,CCCCCCNC(=O)N1C=C(F)C(=O)N(C(=O)C(C)C)C1=O,1522687,949261,21.0,=,nM,105666,7818,Unclassified protein,13.77,,neutral,neutral,neutral,2.67
+929350,CCCCCCNC(=O)N1C=C(F)C(=O)N(CC2CC2)C1=O,1522686,949261,61.0,=,nM,105666,7818,Unclassified protein,13.85,-7.2,neutral,neutral,neutral,2.44
+929351,CCCCCCNC(=O)N1C=C(F)C(=O)N(CC)C1=O,1522685,949261,18.0,=,nM,105666,7818,Unclassified protein,13.83,-7.78,neutral,neutral,neutral,2.02
+929352,CCCCCCNC(=O)N1C=CC(=O)N(C)C1=O,1522684,949261,53.0,=,nM,105666,7818,Unclassified protein,14.77,-5.54,neutral,neutral,neutral,1.46
+929353,CCCCCCNC(=O)N1C=C(F)C(=O)N(C)C1=O,1522683,949261,13.0,=,nM,105666,7818,Unclassified protein,13.75,-7.99,neutral,neutral,neutral,1.66
+929354,CCCCCCNC(=O)N1C=C(NC)C(=O)NC1=O,1522679,949261,3400.0,=,nM,105666,7818,Unclassified protein,9.27,-5.9,neutral,neutral,neutral,0.78
+929355,CCCCCCNC(=O)N1C=C(Br)C(=O)NC1=O,1522677,949261,51.0,=,nM,105666,7818,Unclassified protein,7.84,-7.09,acidic,neutral,neutral,1.93
+929356,CCCCCCNC(=O)N1C=C(I)C(=O)NC1=O,1522676,949261,147.0,=,nM,105666,7818,Unclassified protein,7.86,-7.02,acidic,neutral,neutral,2.09
+929357,CCCCCCNC(=O)N1C=C(C(=O)NC1=O)c2ccccc2,1522675,949261,177.0,=,nM,105666,7818,Unclassified protein,9.38,-5.63,neutral,neutral,neutral,2.9
+929358,CCCCCCNC(=O)N1C=C(N2CCN(C)CC2)C(=O)NC1=O,1522674,949261,1400.0,=,nM,105666,7818,Unclassified protein,9.27,7.56,basic,basic,neutral,0.61
+929359,CCCCCCNC(=O)N1C=C(N2CCOCC2)C(=O)NC1=O,1522673,949261,875.0,=,nM,105666,7818,Unclassified protein,9.26,-3.97,neutral,neutral,neutral,0.94
+929360,CCCCCCNC(=O)N1C=C(N(C)Cc2ccccc2)C(=O)NC1=O,1522672,949261,5500.0,=,nM,105666,7818,Unclassified protein,9.26,-2.51,neutral,neutral,neutral,2.89
+929361,CCCCCCNC(=O)N1C=C(OC)C(=O)NC1=O,1522671,949261,1100.0,=,nM,105666,7818,Unclassified protein,9.03,-4.98,neutral,neutral,neutral,1.09
+929362,CCCCCCNC(=O)N1C=C(CO)C(=O)NC1=O,1522670,949261,417.0,=,nM,105666,7818,Unclassified protein,9.4,-2.85,neutral,neutral,neutral,0.35
+929363,CCCCCCNC(=O)N1C=C(CC)C(=O)NC1=O,1522669,949261,733.0,=,nM,105666,7818,Unclassified protein,9.76,-5.12,neutral,neutral,neutral,2.07
+929364,CCCCCCNC(=O)N1C=C(C(=O)NC1=O)C(F)(F)F,1522668,949261,12.0,=,nM,105666,7818,Unclassified protein,7.4,-6.73,acidic,acidic,neutral,1.7
+929365,CCCCCCNC(=O)N1C=C(Cl)C(=O)NC1=O,1522667,949261,67.0,=,nM,105666,7818,Unclassified protein,7.78,-7.24,acidic,neutral,neutral,1.75
+929366,CCCCCCNC(=O)N1C=C(C)C(=O)NC1=O,1522666,949261,1460.0,=,nM,105666,7818,Unclassified protein,9.77,-5.38,neutral,neutral,neutral,1.63
+929367,CCCCCCNC(=O)N1C=CC(=O)NC1=O,1522701,949261,426.0,=,nM,105666,7818,Unclassified protein,9.51,-5.89,neutral,neutral,neutral,1.23
+929368,COCCNc1nc(OCCc2ccc(OC)cc2)c3c(n1)c4ccccc4CC3(C)C,1531236,951237,5500.0,=,nM,105673,7844,Unclassified protein,14.88,3.81,neutral,neutral,neutral,5.63
+929369,CCNC1=NC2=C(C(=O)N1CC=C)C(C)(C)Cc3cc(OC(C)C)ccc23,1531246,951237,4100.0,=,nM,105673,7844,Unclassified protein,,3.55,neutral,neutral,neutral,3.75
+929370,COc1ccc2C3=C(C(=O)N(CC=C)C(=N3)NCC=C)C(C)(C)Cc2c1,1531240,951237,6900.0,=,nM,105673,7844,Unclassified protein,,3.53,neutral,neutral,neutral,3.35
+929371,CCNC1=NC2=C(C(=O)N1CC=C)C(C)(C)Cc3cc(OC)ccc23,1531363,951237,3100.0,=,nM,105673,7844,Unclassified protein,,3.72,neutral,neutral,neutral,2.98
+929372,CCNC1=NC2=C(C(=O)N1CC=C)C(C)(C)Cc3ccc(OC)cc23,1531361,951237,1300.0,=,nM,105673,7844,Unclassified protein,,3.69,neutral,neutral,neutral,2.98
+929373,CCSC1=NC2=C(C(=O)N1CC=C)C(C)(C)Cc3ccccc23,1531359,951237,2000.0,=,nM,105673,7844,Unclassified protein,,-0.36,neutral,neutral,neutral,4.4
+929374,CC1(C)Cc2ccccc2C3=C1C(=O)N(CC=C)C(=N3)SCc4ccccc4,1531358,951237,10800.0,=,nM,105673,7844,Unclassified protein,,-0.43,neutral,neutral,neutral,5.77
+929375,COCCSC1=NC2=C(C(=O)N1CC=C)C(C)(C)Cc3ccccc23,1531259,951237,3200.0,=,nM,105673,7844,Unclassified protein,,-0.45,neutral,neutral,neutral,3.84
+929376,CSC1=NC2=C(C(=O)N1CC=C)C3(CCCCC3)Cc4ccccc24,1531371,951237,19000.0,=,nM,105673,7844,Unclassified protein,,-0.34,neutral,neutral,neutral,5.02
+929377,CCOCCNC(=O)CCc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530120,952429,6500.0,=,nM,105676,7847,Unclassified protein,9.67,-1.66,neutral,neutral,neutral,4.83
+929378,OCCNC(=O)CCc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530119,952429,6000.0,=,nM,105676,7847,Unclassified protein,9.67,-1.66,neutral,neutral,neutral,3.83
+929379,Oc1ccc(Oc2c(I)cc(CCC(=O)NCC3CCCO3)cc2I)cc1,1530141,952429,2900.0,=,nM,105676,7847,Unclassified protein,9.67,-1.47,neutral,neutral,neutral,4.94
+929380,Oc1ccc(Oc2c(I)cc(CCC(=O)N3CCOCC3)cc2I)cc1,1530140,952429,9700.0,=,nM,105676,7847,Unclassified protein,9.67,-1.32,neutral,neutral,neutral,4.53
+929381,CNC(=O)CCc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530139,952429,11000.0,=,nM,105676,7847,Unclassified protein,9.67,-1.7,neutral,neutral,neutral,4.52
+929382,Oc1ccc(Oc2c(I)cc(CC(=O)NS(=O)(=O)c3ccccc3)cc2I)cc1I,1530138,952429,8600.0,=,nM,105676,7847,Unclassified protein,4.19,-3.74,acidic,acidic,acidic,5.42
+929383,CS(=O)(=O)NC(=O)Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1,1530137,952429,14000.0,=,nM,105676,7847,Unclassified protein,4.03,-3.74,acidic,acidic,acidic,3.3
+929384,Oc1ccc(Oc2c(I)cc(CC(=O)N3CCOCC3)cc2I)cc1I,1530136,952429,2700.0,=,nM,105676,7847,Unclassified protein,8.54,-1.94,neutral,neutral,neutral,4.99
+929385,CN(C)C(=O)Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1,1530131,952429,3100.0,=,nM,105676,7847,Unclassified protein,8.54,-2.26,neutral,neutral,neutral,5.21
+929386,CNC(=O)Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1,1530130,952429,1900.0,=,nM,105676,7847,Unclassified protein,8.54,-2.52,neutral,neutral,neutral,4.98
+929387,OC(=O)CCc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530129,952429,32000.0,=,nM,105676,7847,Unclassified protein,2.5,-3.73,acidic,acidic,acidic,1.6
+929388,CS(=O)(=O)NC[C@@H](N)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530128,952429,1000.0,=,nM,105676,7847,Unclassified protein,9.73,8.86,basic,basic,basic,1.48
+929389,N[C@H](CNC(=O)CCN1CCOCC1)Cc2cc(I)c(Oc3ccc(O)cc3)c(I)c2,1530127,952429,1200.0,=,nM,105676,7847,Unclassified protein,9.75,8.91,basic,basic,basic,1.63
+929390,N[C@H](CNC(=O)N1CCOCC1)Cc2cc(I)c(Oc3ccc(O)cc3)c(I)c2,1530126,952429,1400.0,=,nM,105676,7847,Unclassified protein,9.75,8.9,basic,basic,basic,1.85
+929391,CC(C)NC(=O)NC[C@@H](N)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530125,952429,1300.0,=,nM,105676,7847,Unclassified protein,9.75,8.9,basic,basic,basic,2.62
+929392,CC(=O)NC[C@@H](N)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530124,952429,1500.0,=,nM,105676,7847,Unclassified protein,9.75,8.9,basic,basic,basic,1.96
+929393,CS(=O)(=O)N[C@H](CO)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530123,952429,6000.0,=,nM,105676,7847,Unclassified protein,9.58,-2.77,neutral,neutral,neutral,3.12
+929394,CC(C)NC(=O)N[C@H](CO)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530122,952429,1200.0,=,nM,105676,7847,Unclassified protein,9.67,-1.43,neutral,neutral,neutral,4.29
+929395,COC(=O)N[C@H](CO)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530121,952429,2900.0,=,nM,105676,7847,Unclassified protein,9.67,-2.76,neutral,neutral,neutral,4.25
+929396,CC(=O)N[C@H](CO)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530143,952429,3700.0,=,nM,105676,7847,Unclassified protein,9.67,-1.59,neutral,neutral,neutral,3.63
+929397,N[C@H](CO)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1,1530142,952429,1300.0,=,nM,105676,7847,Unclassified protein,9.86,9.21,basic,basic,basic,1.87
+929398,N[C@@H](Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1)C(=O)O,1217875,952429,6300.0,=,nM,105676,7847,Unclassified protein,0.33,9.23,zwiterionic,zwiterionic,zwiterionic,1.86
+929399,Cc1sc(Nc2ccc(Cl)cc2F)nc1C(=O)N3CCc4ncccc4C3,1577591,978640,6300.0,=,nM,107640,9429,Ion channel,11.03,4.25,neutral,neutral,neutral,4.41
+929400,Cc1sc(Nc2ccc(Cl)cc2F)nc1C(=O)N3CCc4ncccc4C3,1577591,978642,20000.0,=,nM,107641,9430,Ion channel,11.03,4.25,neutral,neutral,neutral,4.41
+929401,CC1N(CCc2ncccc12)C(=O)c3nc(Nc4ccc5OCOc5c4)sc3C,1577590,978640,1260.0,=,nM,107640,9429,Ion channel,13.65,4.23,neutral,neutral,neutral,3.7
+929402,CC1N(CCc2ncccc12)C(=O)c3nc(Nc4ccc5OCOc5c4)sc3C,1577590,978642,10000.0,=,nM,107641,9430,Ion channel,13.65,4.23,neutral,neutral,neutral,3.7
+929403,CC1N(CCc2ccccc12)C(=O)c3nc(Nc4ccc5OCOc5c4)sc3C,1577589,978640,32.0,=,nM,107640,9429,Ion channel,13.65,0.9,neutral,neutral,neutral,4.89
+929404,CC1N(CCc2ccccc12)C(=O)c3nc(Nc4ccc5OCOc5c4)sc3C,1577589,978642,316.0,=,nM,107641,9430,Ion channel,13.65,0.9,neutral,neutral,neutral,4.89
+929405,CC1N(CCc2ccccc12)C(=O)c3csc(Nc4ccc5OCOc5c4)n3,1577588,978640,63.0,=,nM,107640,9429,Ion channel,12.89,0.24,neutral,neutral,neutral,4.24
+929406,CC1N(CCc2ccccc12)C(=O)c3csc(Nc4ccc5OCOc5c4)n3,1577588,978642,316.0,=,nM,107641,9430,Ion channel,12.89,0.24,neutral,neutral,neutral,4.24
+929407,O=C(N1CCc2ccccc2C1)c3csc(Nc4ccc5OCOc5c4)n3,1577587,978640,160.0,=,nM,107640,9429,Ion channel,12.89,0.24,neutral,neutral,neutral,3.83
+929408,O=C(N1CCc2ccccc2C1)c3csc(Nc4ccc5OCOc5c4)n3,1577587,978642,500.0,=,nM,107641,9430,Ion channel,12.89,0.24,neutral,neutral,neutral,3.83
+929409,COc1ccc(Nc2nc(cs2)C(=O)N3CCc4ccccc4C3)cc1,930369,978640,500.0,=,nM,107640,9429,Ion channel,13.43,0.24,neutral,neutral,neutral,4.05
+929410,COc1ccc(Nc2nc(cs2)C(=O)N3CCc4ccccc4C3)cc1,930369,978642,1260.0,=,nM,107641,9430,Ion channel,13.43,0.24,neutral,neutral,neutral,4.05
+929411,C[C@@H]1CCCN([C@@H]1C)C(=O)c2nc(Nc3ccc(Cl)cc3F)sc2C,1577586,978640,1600.0,=,nM,107640,9429,Ion channel,11.03,0.86,neutral,neutral,neutral,5.46
+929412,C[C@@H]1CCCN([C@@H]1C)C(=O)c2nc(Nc3ccc(Cl)cc3F)sc2C,1577586,978642,1000.0,=,nM,107641,9430,Ion channel,11.03,0.86,neutral,neutral,neutral,5.46
+929413,CC1CCCN(C1C)C(=O)c2nc(Nc3ccc(Cl)cc3F)sc2C,1577584,978640,50.0,=,nM,107640,9429,Ion channel,11.03,0.86,neutral,neutral,neutral,5.46
+929414,CC1CCCN(C1C)C(=O)c2nc(Nc3ccc(Cl)cc3F)sc2C,1577584,978642,250.0,=,nM,107641,9430,Ion channel,11.03,0.86,neutral,neutral,neutral,5.46
+929415,CC1CCCN(C1C)C(=O)c2nc(Nc3cc4OCOc4cc3F)sc2Cl,1577583,978640,4.0,=,nM,107640,9429,Ion channel,10.31,-0.79,neutral,neutral,neutral,4.61
+929416,CC1CCCN(C1C)C(=O)c2nc(Nc3cc4OCOc4cc3F)sc2Cl,1577583,978642,32.0,=,nM,107641,9430,Ion channel,10.31,-0.79,neutral,neutral,neutral,4.61
+929417,CC1CCCN(C1C)C(=O)c2nc(Nc3cc4OCOc4cc3F)sc2C,1577582,978640,25.0,=,nM,107640,9429,Ion channel,11.18,0.86,neutral,neutral,neutral,4.48
+929418,CC1CCCN(C1C)C(=O)c2nc(Nc3cc4OCOc4cc3F)sc2C,1577582,978642,160.0,=,nM,107641,9430,Ion channel,11.18,0.86,neutral,neutral,neutral,4.48
+929419,CC1CCCN(C1C)C(=O)c2csc(Nc3ccc4OCOc4c3)n2,1577581,978640,16.0,=,nM,107640,9429,Ion channel,12.89,0.24,neutral,neutral,neutral,3.7
+929420,CC1CCCN(C1C)C(=O)c2csc(Nc3ccc4OCOc4c3)n2,1577581,978642,80.0,=,nM,107641,9430,Ion channel,12.89,0.24,neutral,neutral,neutral,3.7
+929421,Cc1ccc(Nc2nc(cs2)C(=O)N3CCC(CC3)C4CCCCC4)cc1,1577579,978640,4000.0,=,nM,107640,9429,Ion channel,13.31,0.24,neutral,neutral,neutral,5.69
+929422,Cc1ccc(Nc2nc(cs2)C(=O)N3CCC(CC3)C4CCCCC4)cc1,1577579,978642,6300.0,=,nM,107641,9430,Ion channel,13.31,0.24,neutral,neutral,neutral,5.69
+929423,COc1ccc(Nc2nc(cs2)C(=O)N3CCC(CC3)c4ccccc4)cc1,1577578,978640,1600.0,=,nM,107640,9429,Ion channel,13.43,0.25,neutral,neutral,neutral,4.55
+929424,COc1ccc(Nc2nc(cs2)C(=O)N3CCC(CC3)c4ccccc4)cc1,1577578,978642,2500.0,=,nM,107641,9430,Ion channel,13.43,0.25,neutral,neutral,neutral,4.55
+929425,Cc1ccc(Nc2nc(cs2)C(=O)N3CCCCC3c4ccccc4)cc1,1577599,978640,15800.0,=,nM,107640,9429,Ion channel,13.31,0.24,neutral,neutral,neutral,5.59
+929426,Cc1ccc(Nc2nc(cs2)C(=O)N3CCCCC3c4ccccc4)cc1,1577599,978642,12600.0,=,nM,107641,9430,Ion channel,13.31,0.24,neutral,neutral,neutral,5.59
+929427,CC1CCCCN1C(=O)c2csc(Nc3ccc(C)cc3)n2,1577598,978640,630.0,=,nM,107640,9429,Ion channel,13.31,0.24,neutral,neutral,neutral,4.22
+929428,CC1CCCCN1C(=O)c2csc(Nc3ccc(C)cc3)n2,1577598,978642,800.0,=,nM,107641,9430,Ion channel,13.31,0.24,neutral,neutral,neutral,4.22
+929429,CC1CCN(CC1)C(=O)c2csc(Nc3ccc4OCOc4c3)n2,1577597,978640,160.0,=,nM,107640,9429,Ion channel,12.89,0.24,neutral,neutral,neutral,3.2
+929430,CC1CCN(CC1)C(=O)c2csc(Nc3ccc4OCOc4c3)n2,1577597,978642,400.0,=,nM,107641,9430,Ion channel,12.89,0.24,neutral,neutral,neutral,3.2
+929431,CC1CCN(CC1)C(=O)c2csc(Nc3ccc(Cl)cc3F)n2,1577596,978640,630.0,=,nM,107640,9429,Ion channel,10.27,0.2,neutral,neutral,neutral,4.32
+929432,CC1CCN(CC1)C(=O)c2csc(Nc3ccc(Cl)cc3F)n2,1577596,978642,1600.0,=,nM,107641,9430,Ion channel,10.27,0.2,neutral,neutral,neutral,4.32
+929433,CC1CCN(CC1)C(=O)c2csc(Nc3ccccc3Cl)n2,1577595,978640,3160.0,=,nM,107640,9429,Ion channel,11.37,0.22,neutral,neutral,neutral,4.18
+929434,CC1CCN(CC1)C(=O)c2csc(Nc3ccccc3Cl)n2,1577595,978642,6300.0,=,nM,107641,9430,Ion channel,11.37,0.22,neutral,neutral,neutral,4.18
+929435,COc1ccc(Nc2nc(cs2)C(=O)N3CCC(C)CC3)cc1,1577594,978640,800.0,=,nM,107640,9429,Ion channel,13.43,0.25,neutral,neutral,neutral,3.42
+929436,COc1ccc(Nc2nc(cs2)C(=O)N3CCC(C)CC3)cc1,1577594,978642,800.0,=,nM,107641,9430,Ion channel,13.43,0.25,neutral,neutral,neutral,3.42
+929437,CC1CCN(CC1)C(=O)c2csc(Nc3ccc(Cl)cc3)n2,1577593,978640,800.0,=,nM,107640,9429,Ion channel,12.7,0.24,neutral,neutral,neutral,4.18
+929438,CC1CCN(CC1)C(=O)c2csc(Nc3ccc(Cl)cc3)n2,1577593,978642,800.0,=,nM,107641,9430,Ion channel,12.7,0.24,neutral,neutral,neutral,4.18
+929439,CC1CCN(CC1)C(=O)c2csc(Nc3ccc(C)cc3)n2,1577592,978640,400.0,=,nM,107640,9429,Ion channel,13.31,0.24,neutral,neutral,neutral,4.09
+929440,CC1CCN(CC1)C(=O)c2csc(Nc3ccc(C)cc3)n2,1577592,978642,630.0,=,nM,107641,9430,Ion channel,13.31,0.24,neutral,neutral,neutral,4.09
+929441,COC(=O)c1ccccc1C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559534,956658,32000.0,=,nM,107895,9695,Enzyme,10.58,1.89,neutral,neutral,neutral,3.37
+929442,COC(=O)c1ccccc1C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559534,956658,32000.0,=,nM,107895,9696,Other cytosolic protein,10.58,1.89,neutral,neutral,neutral,3.37
+929443,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cc(cc(c3)C(F)(F)F)C(F)(F)F,1559536,956658,25000.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,5.13
+929444,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cc(cc(c3)C(F)(F)F)C(F)(F)F,1559536,956658,25000.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,5.13
+929445,COc1ccc(cc1)C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559537,956658,17000.0,=,nM,107895,9695,Enzyme,10.59,1.92,neutral,neutral,neutral,3.21
+929446,COc1ccc(cc1)C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559537,956658,17000.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.92,neutral,neutral,neutral,3.21
+929447,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(Cl)c3,1559662,956658,15000.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,3.97
+929448,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(Cl)c3,1559662,956658,15000.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,3.97
+929449,Nc1ccc(cc1)C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559661,956658,8800.0,=,nM,107895,9695,Enzyme,10.59,2.79,neutral,neutral,neutral,2.54
+929450,Nc1ccc(cc1)C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559661,956658,8800.0,=,nM,107895,9696,Other cytosolic protein,10.59,2.79,neutral,neutral,neutral,2.54
+929451,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3ccc(cc3)[N+](=O)[O-],1559663,956658,7400.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,3.31
+929452,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3ccc(cc3)[N+](=O)[O-],1559663,956658,7400.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,3.31
+929453,Cc1ccccc1C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559665,956658,4800.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,3.88
+929454,Cc1ccccc1C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559665,956658,4800.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,3.88
+929455,NC(=O)c1sc(Nc2ccc(cc2)S(=O)(=O)N)nc1N,1559664,956658,4800.0,=,nM,107895,9695,Enzyme,10.6,1.88,neutral,neutral,neutral,0.76
+929456,NC(=O)c1sc(Nc2ccc(cc2)S(=O)(=O)N)nc1N,1559664,956658,4800.0,=,nM,107895,9696,Other cytosolic protein,10.6,1.88,neutral,neutral,neutral,0.76
+929457,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)C3CCCCC3,1559667,956658,3500.0,=,nM,107895,9695,Enzyme,10.58,1.92,neutral,neutral,neutral,3.58
+929458,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)C3CCCCC3,1559667,956658,3500.0,=,nM,107895,9696,Other cytosolic protein,10.58,1.92,neutral,neutral,neutral,3.58
+929459,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(O)c3,1559666,956658,1500.0,=,nM,107895,9695,Enzyme,8.83,1.91,neutral,neutral,neutral,3.05
+929460,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(O)c3,1559666,956658,1500.0,=,nM,107895,9696,Other cytosolic protein,8.83,1.91,neutral,neutral,neutral,3.05
+929461,Nc1nc(NC2CCNCC2)sc1C(=O)c3cccnc3,1559675,956658,43000.0,=,nM,107895,9695,Enzyme,14.41,9.88,basic,basic,basic,-1.19
+929462,Nc1nc(NC2CCNCC2)sc1C(=O)c3cccnc3,1559675,956658,43000.0,=,nM,107895,9696,Other cytosolic protein,14.41,9.88,basic,basic,basic,-1.19
+929463,Nc1nc(Nc2cccc(c2)S(=O)(=O)N)sc1C(=O)c3cccnc3,1559677,956658,7800.0,=,nM,107895,9695,Enzyme,10.22,3.66,neutral,neutral,neutral,2.15
+929464,Nc1nc(Nc2cccc(c2)S(=O)(=O)N)sc1C(=O)c3cccnc3,1559677,956658,7800.0,=,nM,107895,9696,Other cytosolic protein,10.22,3.66,neutral,neutral,neutral,2.15
+929465,Nc1nc(Nc2ccc(cc2)C(=O)O)sc1C(=O)c3cccnc3,1559679,956658,4000.0,=,nM,107895,9695,Enzyme,4.64,3.61,acidic,acidic,acidic,0.48
+929466,Nc1nc(Nc2ccc(cc2)C(=O)O)sc1C(=O)c3cccnc3,1559679,956658,4000.0,=,nM,107895,9696,Other cytosolic protein,4.64,3.61,acidic,acidic,acidic,0.48
+929467,CC(C)(C)OC(=O)N1CCC(CC1)Nc2nc(N)c(s2)C(=O)c3cccnc3,1559678,956658,3500.0,=,nM,107895,9695,Enzyme,14.41,3.67,neutral,neutral,neutral,2.51
+929468,CC(C)(C)OC(=O)N1CCC(CC1)Nc2nc(N)c(s2)C(=O)c3cccnc3,1559678,956658,3500.0,=,nM,107895,9696,Other cytosolic protein,14.41,3.67,neutral,neutral,neutral,2.51
+929469,Nc1nc(Nc2ccc(cc2)C#N)sc1C(=O)c3cccnc3,1559681,956658,2800.0,=,nM,107895,9695,Enzyme,11.97,3.66,neutral,neutral,neutral,3.4
+929470,Nc1nc(Nc2ccc(cc2)C#N)sc1C(=O)c3cccnc3,1559681,956658,2800.0,=,nM,107895,9696,Other cytosolic protein,11.97,3.66,neutral,neutral,neutral,3.4
+929471,COc1cccc(c1)C(=O)c2sc(Nc3ccccc3)nc2N,556735,956658,3100.0,=,nM,107895,9695,Enzyme,12.57,1.92,neutral,neutral,neutral,4.61
+929472,COc1cccc(c1)C(=O)c2sc(Nc3ccccc3)nc2N,556735,956658,3100.0,=,nM,107895,9696,Other cytosolic protein,12.57,1.92,neutral,neutral,neutral,4.61
+929473,Nc1nc(Nc2ccccc2)sc1C(=O)c3cccc(c3)[N+](=O)[O-],1559692,956658,2200.0,=,nM,107895,9695,Enzyme,12.57,1.91,neutral,neutral,neutral,4.7
+929474,Nc1nc(Nc2ccccc2)sc1C(=O)c3cccc(c3)[N+](=O)[O-],1559692,956658,2200.0,=,nM,107895,9696,Other cytosolic protein,12.57,1.91,neutral,neutral,neutral,4.7
+929475,Nc1nc(Nc2ccccc2)sc1C(=O)c3cccc(F)c3,1559691,956658,1600.0,=,nM,107895,9695,Enzyme,12.57,1.92,neutral,neutral,neutral,4.91
+929476,Nc1nc(Nc2ccccc2)sc1C(=O)c3cccc(F)c3,1559691,956658,1600.0,=,nM,107895,9696,Other cytosolic protein,12.57,1.92,neutral,neutral,neutral,4.91
+929477,Nc1nc(Nc2ccccc2)sc1C(=O)c3ccc(F)cc3,1559690,956658,1400.0,=,nM,107895,9695,Enzyme,12.58,1.92,neutral,neutral,neutral,4.91
+929478,Nc1nc(Nc2ccccc2)sc1C(=O)c3ccc(F)cc3,1559690,956658,1400.0,=,nM,107895,9696,Other cytosolic protein,12.58,1.92,neutral,neutral,neutral,4.91
+929479,CCNc1nc(N)c(s1)C(=O)c2ccccc2,1559693,956658,17000.0,=,nM,107895,9695,Enzyme,15.21,2.43,neutral,neutral,neutral,3.15
+929480,CCNc1nc(N)c(s1)C(=O)c2ccccc2,1559693,956658,17000.0,=,nM,107895,9696,Other cytosolic protein,15.21,2.43,neutral,neutral,neutral,3.15
+929481,CC(=C)CNc1nc(N)c(s1)C(=O)c2ccccc2,1559696,956658,15000.0,=,nM,107895,9695,Enzyme,14.17,2.4,neutral,neutral,neutral,3.77
+929482,CC(=C)CNc1nc(N)c(s1)C(=O)c2ccccc2,1559696,956658,15000.0,=,nM,107895,9696,Other cytosolic protein,14.17,2.4,neutral,neutral,neutral,3.77
+929483,CCCNc1nc(N)c(s1)C(=O)c2ccccc2,1559698,956658,8900.0,=,nM,107895,9695,Enzyme,15.09,2.43,neutral,neutral,neutral,3.68
+929484,CCCNc1nc(N)c(s1)C(=O)c2ccccc2,1559698,956658,8900.0,=,nM,107895,9696,Other cytosolic protein,15.09,2.43,neutral,neutral,neutral,3.68
+929485,Nc1nc(Nc2cccc(F)c2)sc1C(=O)c3ccccc3,1559697,956658,5700.0,=,nM,107895,9695,Enzyme,11.85,1.92,neutral,neutral,neutral,4.91
+929486,Nc1nc(Nc2cccc(F)c2)sc1C(=O)c3ccccc3,1559697,956658,5700.0,=,nM,107895,9696,Other cytosolic protein,11.85,1.92,neutral,neutral,neutral,4.91
+929487,CC(C)Nc1nc(N)c(s1)C(=O)c2ccccc2,1559699,956658,2000.0,=,nM,107895,9695,Enzyme,14.77,2.41,neutral,neutral,neutral,3.57
+929488,CC(C)Nc1nc(N)c(s1)C(=O)c2ccccc2,1559699,956658,2000.0,=,nM,107895,9696,Other cytosolic protein,14.77,2.41,neutral,neutral,neutral,3.57
+929489,Nc1nc(NC2CCCCC2)sc1C(=O)c3ccccc3,1559701,956658,1300.0,=,nM,107895,9695,Enzyme,14.53,2.41,neutral,neutral,neutral,4.6
+929490,Nc1nc(NC2CCCCC2)sc1C(=O)c3ccccc3,1559701,956658,1300.0,=,nM,107895,9696,Other cytosolic protein,14.53,2.41,neutral,neutral,neutral,4.6
+929491,Nc1nc(NCC=C)sc1C(=O)c2ccncc2,1559705,956658,49000.0,=,nM,107895,9695,Enzyme,14.27,3.01,neutral,neutral,neutral,2.31
+929492,Nc1nc(NCC=C)sc1C(=O)c2ccncc2,1559705,956658,49000.0,=,nM,107895,9696,Other cytosolic protein,14.27,3.01,neutral,neutral,neutral,2.31
+929493,Nc1nc(NCC=C)sc1C(=O)c2ccc(cc2)[N+](=O)[O-],1559707,956658,41000.0,=,nM,107895,9695,Enzyme,14.26,2.39,neutral,neutral,neutral,3.47
+929494,Nc1nc(NCC=C)sc1C(=O)c2ccc(cc2)[N+](=O)[O-],1559707,956658,41000.0,=,nM,107895,9696,Other cytosolic protein,14.26,2.39,neutral,neutral,neutral,3.47
+929495,Cc1ccc(cc1)C(=O)c2sc(NCC=C)nc2N,1559708,956658,37000.0,=,nM,107895,9695,Enzyme,14.28,2.41,neutral,neutral,neutral,4.04
+929496,Cc1ccc(cc1)C(=O)c2sc(NCC=C)nc2N,1559708,956658,37000.0,=,nM,107895,9696,Other cytosolic protein,14.28,2.41,neutral,neutral,neutral,4.04
+929497,COc1ccc(cc1)C(=O)c2sc(NCC=C)nc2N,1559710,956658,35000.0,=,nM,107895,9695,Enzyme,14.28,2.41,neutral,neutral,neutral,3.37
+929498,COc1ccc(cc1)C(=O)c2sc(NCC=C)nc2N,1559710,956658,35000.0,=,nM,107895,9696,Other cytosolic protein,14.28,2.41,neutral,neutral,neutral,3.37
+929499,Nc1nc(NCC=C)sc1C(=O)c2ccccn2,1559709,956658,33000.0,=,nM,107895,9695,Enzyme,14.14,2.5,neutral,neutral,neutral,2.7
+929500,Nc1nc(NCC=C)sc1C(=O)c2ccccn2,1559709,956658,33000.0,=,nM,107895,9696,Other cytosolic protein,14.14,2.5,neutral,neutral,neutral,2.7
+929501,Nc1nc(NCC=C)sc1C(=O)c2ccc(Cl)s2,1559711,956658,12000.0,=,nM,107895,9695,Enzyme,14.19,2.3,neutral,neutral,neutral,4.21
+929502,Nc1nc(NCC=C)sc1C(=O)c2ccc(Cl)s2,1559711,956658,12000.0,=,nM,107895,9696,Other cytosolic protein,14.19,2.3,neutral,neutral,neutral,4.21
+929503,Nc1nc(NCC=C)sc1C(=O)c2ccc3ccccc3c2,1559713,956658,5000.0,=,nM,107895,9695,Enzyme,14.27,2.4,neutral,neutral,neutral,4.52
+929504,Nc1nc(NCC=C)sc1C(=O)c2ccc3ccccc3c2,1559713,956658,5000.0,=,nM,107895,9696,Other cytosolic protein,14.27,2.4,neutral,neutral,neutral,4.52
+929505,Nc1nc(NCC=C)sc1C(=O)c2cccnc2,1559712,956658,3100.0,=,nM,107895,9695,Enzyme,14.25,3.67,neutral,neutral,neutral,2.31
+929506,Nc1nc(NCC=C)sc1C(=O)c2cccnc2,1559712,956658,3100.0,=,nM,107895,9696,Other cytosolic protein,14.25,3.67,neutral,neutral,neutral,2.31
+929507,Nc1nc(NCC=C)sc1C(=O)c2cccc(c2)[N+](=O)[O-],1559715,956658,2900.0,=,nM,107895,9695,Enzyme,14.27,2.4,neutral,neutral,neutral,3.47
+929508,Nc1nc(NCC=C)sc1C(=O)c2cccc(c2)[N+](=O)[O-],1559715,956658,2900.0,=,nM,107895,9696,Other cytosolic protein,14.27,2.4,neutral,neutral,neutral,3.47
+929509,Nc1nc(NCC=C)sc1C(=O)c2ccccc2,1559714,956658,15000.0,=,nM,107895,9695,Enzyme,14.27,2.4,neutral,neutral,neutral,3.53
+929510,Nc1nc(NCC=C)sc1C(=O)c2ccccc2,1559714,956658,15000.0,=,nM,107895,9696,Other cytosolic protein,14.27,2.4,neutral,neutral,neutral,3.53
+929511,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(c3)C(F)(F)F,1559668,956659,570.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,4.25
+929512,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(c3)C(F)(F)F,1559668,956659,570.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,4.25
+929513,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3ccccc3,1559670,956659,130.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,3.37
+929514,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3ccccc3,1559670,956659,130.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,3.37
+929515,COc1cccc(c1)C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559669,956659,100.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,3.21
+929516,COc1cccc(c1)C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559669,956659,100.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,3.21
+929517,Nc1cccc(c1)C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559671,956659,70.0,=,nM,107895,9695,Enzyme,10.59,3.03,neutral,neutral,neutral,2.54
+929518,Nc1cccc(c1)C(=O)c2sc(Nc3ccc(cc3)S(=O)(=O)N)nc2N,1559671,956659,70.0,=,nM,107895,9696,Other cytosolic protein,10.59,3.03,neutral,neutral,neutral,2.54
+929519,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(c3)[N+](=O)[O-],1559673,956659,70.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,3.31
+929520,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(c3)[N+](=O)[O-],1559673,956659,70.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,3.31
+929521,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3ccc(cc3)S(=O)(=O)N,1559672,956659,70.0,=,nM,107895,9695,Enzyme,9.79,1.91,neutral,neutral,neutral,1.97
+929522,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3ccc(cc3)S(=O)(=O)N,1559672,956659,70.0,=,nM,107895,9696,Other cytosolic protein,9.79,1.91,neutral,neutral,neutral,1.97
+929523,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(F)c3,1559674,956659,50.0,=,nM,107895,9695,Enzyme,10.59,1.91,neutral,neutral,neutral,3.51
+929524,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccc(F)c3,1559674,956659,50.0,=,nM,107895,9696,Other cytosolic protein,10.59,1.91,neutral,neutral,neutral,3.51
+929525,Nc1nc(NC2CCCCC2)sc1C(=O)c3cccnc3,1559680,956659,380.0,=,nM,107895,9695,Enzyme,14.51,3.67,neutral,neutral,neutral,3.38
+929526,Nc1nc(NC2CCCCC2)sc1C(=O)c3cccnc3,1559680,956659,380.0,=,nM,107895,9696,Other cytosolic protein,14.51,3.67,neutral,neutral,neutral,3.38
+929527,CC(C)Nc1nc(N)c(s1)C(=O)c2cccnc2,1559682,956659,520.0,=,nM,107895,9695,Enzyme,14.74,3.67,neutral,neutral,neutral,2.35
+929528,CC(C)Nc1nc(N)c(s1)C(=O)c2cccnc2,1559682,956659,520.0,=,nM,107895,9696,Other cytosolic protein,14.74,3.67,neutral,neutral,neutral,2.35
+929529,NC(=O)c1ccc(Nc2nc(N)c(s2)C(=O)c3cccnc3)cc1,1559717,956659,200.0,=,nM,107895,9695,Enzyme,11.76,3.66,neutral,neutral,neutral,2.4
+929530,NC(=O)c1ccc(Nc2nc(N)c(s2)C(=O)c3cccnc3)cc1,1559717,956659,200.0,=,nM,107895,9696,Other cytosolic protein,11.76,3.66,neutral,neutral,neutral,2.4
+929531,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccnc3,1559716,956659,20.0,=,nM,107895,9695,Enzyme,10.58,3.66,neutral,neutral,neutral,2.15
+929532,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccnc3,1559716,956659,20.0,=,nM,107895,9696,Other cytosolic protein,10.58,3.66,neutral,neutral,neutral,2.15
+929533,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccnc3,1559716,956660,0.9,=,nM,107895,9695,Enzyme,10.58,3.66,neutral,neutral,neutral,2.15
+929534,Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)sc1C(=O)c3cccnc3,1559716,956660,0.9,=,nM,107895,9696,Other cytosolic protein,10.58,3.66,neutral,neutral,neutral,2.15
+929535,Nc1nc(Nc2ccccc2)sc1C(=O)c3cccnc3,1559695,956659,650.0,=,nM,107895,9695,Enzyme,12.55,3.66,neutral,neutral,neutral,3.55
+929536,Nc1nc(Nc2ccccc2)sc1C(=O)c3cccnc3,1559695,956659,650.0,=,nM,107895,9696,Other cytosolic protein,12.55,3.66,neutral,neutral,neutral,3.55
+929537,Nc1nc(N)c(c(OCC2CCCCC2)n1)[N+](=NC#N)[O-],1581019,982828,940.0,=,nM,107895,9695,Enzyme,7.4,2.23,acidic,acidic,neutral,1.89
+929538,Nc1nc(N)c(c(OCC2CCCCC2)n1)[N+](=NC#N)[O-],1581019,982828,940.0,=,nM,107895,9696,Other cytosolic protein,7.4,2.23,acidic,acidic,neutral,1.89
+929539,C1CO[B-]([NH2+]1)(c2ccccc2)c3ccc(cc3)c4ccccc4,1562945,961875,7700.0,=,nM,107902,9710,Ion channel,,14.38,basic,basic,basic,0.67
+929540,C1CO[B-]([NH2+]1)(c2ccccc2)c3ccc(cc3)c4ccccc4,1562945,961875,7700.0,=,nM,107902,9712,Ion channel,,14.38,basic,basic,basic,0.67
+929541,C1CO[B-]([NH2+]1)(c2ccccc2)c3ccc(cc3)c4ccccc4,1562945,962121,13400.0,=,nM,107902,9710,Ion channel,,14.38,basic,basic,basic,0.67
+929542,C1CO[B-]([NH2+]1)(c2ccccc2)c3ccc(cc3)c4ccccc4,1562945,962121,13400.0,=,nM,107902,9712,Ion channel,,14.38,basic,basic,basic,0.67
+929543,OB1c2ccccc2CCc3ccccc13,1562940,961875,36400.0,=,nM,107902,9710,Ion channel,10.0,-4.99,neutral,neutral,neutral,4.2
+929544,OB1c2ccccc2CCc3ccccc13,1562940,961875,36400.0,=,nM,107902,9712,Ion channel,10.0,-4.99,neutral,neutral,neutral,4.2
+929545,OB1c2ccccc2CCc3ccccc13,1562940,962121,33300.0,=,nM,107902,9710,Ion channel,10.0,-4.99,neutral,neutral,neutral,4.2
+929546,OB1c2ccccc2CCc3ccccc13,1562940,962121,33300.0,=,nM,107902,9712,Ion channel,10.0,-4.99,neutral,neutral,neutral,4.2
+929547,COc1ccc(cc1)[B-]2([NH2+]CCO2)c3ccc(OC)cc3,1562939,961875,25800.0,=,nM,107902,9710,Ion channel,,14.25,basic,basic,basic,-1.52
+929548,COc1ccc(cc1)[B-]2([NH2+]CCO2)c3ccc(OC)cc3,1562939,961875,25800.0,=,nM,107902,9712,Ion channel,,14.25,basic,basic,basic,-1.52
+929549,COc1ccc(cc1)[B-]2([NH2+]CCO2)c3ccc(OC)cc3,1562939,962121,12400.0,=,nM,107902,9710,Ion channel,,14.25,basic,basic,basic,-1.52
+929550,COc1ccc(cc1)[B-]2([NH2+]CCO2)c3ccc(OC)cc3,1562939,962121,12400.0,=,nM,107902,9712,Ion channel,,14.25,basic,basic,basic,-1.52
+929551,COc1ccccc1[B-]2([NH2+]CCO2)c3ccccc3OC,1562773,961875,10500.0,=,nM,107902,9710,Ion channel,,13.48,basic,basic,basic,-1.52
+929552,COc1ccccc1[B-]2([NH2+]CCO2)c3ccccc3OC,1562773,961875,10500.0,=,nM,107902,9712,Ion channel,,13.48,basic,basic,basic,-1.52
+929553,COc1ccccc1[B-]2([NH2+]CCO2)c3ccccc3OC,1562773,962121,11600.0,=,nM,107902,9710,Ion channel,,13.48,basic,basic,basic,-1.52
+929554,COc1ccccc1[B-]2([NH2+]CCO2)c3ccccc3OC,1562773,962121,11600.0,=,nM,107902,9712,Ion channel,,13.48,basic,basic,basic,-1.52
+929555,COc1ccccc1B(O)c2ccccc2OC,1562772,961875,11800.0,=,nM,107902,9710,Ion channel,9.2,-4.54,neutral,neutral,neutral,3.26
+929556,COc1ccccc1B(O)c2ccccc2OC,1562772,961875,11800.0,=,nM,107902,9712,Ion channel,9.2,-4.54,neutral,neutral,neutral,3.26
+929557,COc1ccccc1B(O)c2ccccc2OC,1562772,962121,13200.0,=,nM,107902,9710,Ion channel,9.2,-4.54,neutral,neutral,neutral,3.26
+929558,COc1ccccc1B(O)c2ccccc2OC,1562772,962121,13200.0,=,nM,107902,9712,Ion channel,9.2,-4.54,neutral,neutral,neutral,3.26
+929559,C1CS[B-]([NH2+]1)(c2ccccc2)c3ccccc3,1562768,961875,44600.0,=,nM,107902,9710,Ion channel,,12.48,basic,basic,basic,-0.58
+929560,C1CS[B-]([NH2+]1)(c2ccccc2)c3ccccc3,1562768,961875,44600.0,=,nM,107902,9712,Ion channel,,12.48,basic,basic,basic,-0.58
+929561,O=C1O[B-]([NH2+][C@H]1Cc2c[nH]c3ccccc23)(c4ccccc4)c5ccccc5,1562767,961875,14700.0,=,nM,107902,9710,Ion channel,16.14,8.51,basic,basic,basic,3.45
+929562,O=C1O[B-]([NH2+][C@H]1Cc2c[nH]c3ccccc23)(c4ccccc4)c5ccccc5,1562767,961875,14700.0,=,nM,107902,9712,Ion channel,16.14,8.51,basic,basic,basic,3.45
+929563,O=C1O[B-]([NH2+][C@H]1Cc2c[nH]c3ccccc23)(c4ccccc4)c5ccccc5,1562767,962121,6900.0,=,nM,107902,9710,Ion channel,16.14,8.51,basic,basic,basic,3.45
+929564,O=C1O[B-]([NH2+][C@H]1Cc2c[nH]c3ccccc23)(c4ccccc4)c5ccccc5,1562767,962121,6900.0,=,nM,107902,9712,Ion channel,16.14,8.51,basic,basic,basic,3.45
+929565,COc1ccc2nccc([C@H](O)[C@@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579996,982964,500.0,=,nM,107908,9724,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929566,COc1ccc2nccc(OC[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1580005,982964,500.0,=,nM,107908,9724,Enzyme,,7.86,basic,basic,neutral,1.2
+929567,COc1ccc2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579943,982964,250.0,=,nM,107908,9724,Enzyme,11.53,7.66,basic,basic,neutral,0.74
+929568,COc1ccc2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579943,982977,8000.0,=,nM,107934,9777,Enzyme,11.53,7.66,basic,basic,neutral,0.74
+929569,COc1ccc2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579943,982977,8000.0,=,nM,107934,9778,Enzyme,11.53,7.66,basic,basic,neutral,0.74
+929570,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5nn4)c2n1,1579987,982964,125.0,=,nM,107908,9724,Enzyme,12.64,7.65,basic,basic,neutral,-0.08
+929571,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5nn4)c2n1,1579986,982964,125.0,=,nM,107908,9724,Enzyme,12.64,7.72,basic,basic,neutral,0.41
+929572,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5nn4)c2n1,1579986,982977,8000.0,=,nM,107934,9777,Enzyme,12.64,7.72,basic,basic,neutral,0.41
+929573,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5nn4)c2n1,1579986,982977,8000.0,=,nM,107934,9778,Enzyme,12.64,7.72,basic,basic,neutral,0.41
+929574,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5nn4)c2n1,1579983,982964,125.0,=,nM,107908,9724,Enzyme,12.68,7.72,basic,basic,neutral,0.41
+929575,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579981,982964,125.0,=,nM,107908,9724,Enzyme,12.68,7.86,basic,basic,neutral,0.16
+929576,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579981,982977,8000.0,=,nM,107934,9777,Enzyme,12.68,7.86,basic,basic,neutral,0.16
+929577,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579981,982977,8000.0,=,nM,107934,9778,Enzyme,12.68,7.86,basic,basic,neutral,0.16
+929578,COc1cc(F)c2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579942,982964,125.0,=,nM,107908,9724,Enzyme,11.53,7.66,basic,basic,neutral,0.88
+929579,COc1cc(F)c2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579942,982977,8000.0,=,nM,107934,9777,Enzyme,11.53,7.66,basic,basic,neutral,0.88
+929580,COc1cc(F)c2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579942,982977,8000.0,=,nM,107934,9778,Enzyme,11.53,7.66,basic,basic,neutral,0.88
+929581,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1580000,982964,125.0,=,nM,107908,9724,Enzyme,11.53,7.66,basic,basic,neutral,0.88
+929582,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1580000,982977,8000.0,=,nM,107934,9777,Enzyme,11.53,7.66,basic,basic,neutral,0.88
+929583,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1580000,982977,8000.0,=,nM,107934,9778,Enzyme,11.53,7.66,basic,basic,neutral,0.88
+929584,COc1cnc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579999,982964,125.0,=,nM,107908,9724,Enzyme,11.54,7.66,basic,basic,neutral,0.74
+929585,COc1cnc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579999,982977,500.0,=,nM,107934,9777,Enzyme,11.54,7.66,basic,basic,neutral,0.74
+929586,COc1cnc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2c1,1579999,982977,500.0,=,nM,107934,9778,Enzyme,11.54,7.66,basic,basic,neutral,0.74
+929587,COc1ccc2nccc([C@@H](O)[C@H](O)[C@H]3CC[C@@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579995,982964,125.0,=,nM,107908,9724,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929588,COc1ccc2nccc(\C=C\[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579990,982964,125.0,=,nM,107908,9724,Enzyme,,7.86,basic,basic,neutral,1.89
+929589,COc1ccc2nccc(\C=C\[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579989,982964,125.0,=,nM,107908,9724,Enzyme,11.55,7.66,basic,basic,neutral,2.37
+929590,COc1ccc2nccc(\C=C\[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579989,982977,2000.0,=,nM,107934,9777,Enzyme,11.55,7.66,basic,basic,neutral,2.37
+929591,COc1ccc2nccc(\C=C\[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579989,982977,2000.0,=,nM,107934,9778,Enzyme,11.55,7.66,basic,basic,neutral,2.37
+929592,COc1ccc2nccc(C(O)C[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579988,982964,125.0,=,nM,107908,9724,Enzyme,14.23,7.86,basic,basic,neutral,0.71
+929593,COc1ccc2nccc(NC(=O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1580007,982964,125.0,=,nM,107908,9724,Enzyme,11.14,7.56,basic,basic,neutral,0.82
+929594,COc1ccc2nccc(NC(=O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580006,982964,125.0,=,nM,107908,9724,Enzyme,11.0,7.36,basic,neutral,neutral,1.27
+929595,COc1ccc2nccc(NC(=O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580006,982977,2000.0,=,nM,107934,9777,Enzyme,11.0,7.36,basic,neutral,neutral,1.27
+929596,COc1ccc2nccc(NC(=O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580006,982977,2000.0,=,nM,107934,9778,Enzyme,11.0,7.36,basic,neutral,neutral,1.27
+929597,COc1ccc2nccc(OC[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580004,982964,125.0,=,nM,107908,9724,Enzyme,11.55,7.66,basic,basic,neutral,1.68
+929598,COc1ccc2nccc(OC[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580004,982977,8000.0,=,nM,107934,9777,Enzyme,11.55,7.66,basic,basic,neutral,1.68
+929599,COc1ccc2nccc(OC[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580004,982977,8000.0,=,nM,107934,9778,Enzyme,11.55,7.66,basic,basic,neutral,1.68
+929600,Fc1ccc2C=CC(=O)N3CC(CN4CCC(CC4)NCc5cc6OCCOc6cn5)c1c23,1580003,982964,125.0,=,nM,107908,9724,Enzyme,,8.76,basic,basic,basic,-0.34
+929601,Fc1ccc2C=CC(=O)N3CC(CN4CCC(CC4)NCc5cc6OCCOc6cn5)c1c23,1580003,982977,2000.0,=,nM,107934,9777,Enzyme,,8.76,basic,basic,basic,-0.34
+929602,Fc1ccc2C=CC(=O)N3CC(CN4CCC(CC4)NCc5cc6OCCOc6cn5)c1c23,1580003,982977,2000.0,=,nM,107934,9778,Enzyme,,8.76,basic,basic,basic,-0.34
+929603,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5cn4)c2n1,1579985,982964,30.0,=,nM,107908,9724,Enzyme,12.64,7.93,basic,basic,neutral,0.64
+929604,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5cn4)c2n1,1579985,982977,8000.0,=,nM,107934,9777,Enzyme,12.64,7.93,basic,basic,neutral,0.64
+929605,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5cn4)c2n1,1579985,982977,8000.0,=,nM,107934,9778,Enzyme,12.64,7.93,basic,basic,neutral,0.64
+929606,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579984,982964,30.0,=,nM,107908,9724,Enzyme,12.64,7.86,basic,basic,neutral,0.16
+929607,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579984,982977,8000.0,=,nM,107934,9777,Enzyme,12.64,7.86,basic,basic,neutral,0.16
+929608,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579984,982977,8000.0,=,nM,107934,9778,Enzyme,12.64,7.86,basic,basic,neutral,0.16
+929609,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5cn4)c2n1,1579982,982964,30.0,=,nM,107908,9724,Enzyme,12.68,7.93,basic,basic,neutral,0.64
+929610,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5cn4)c2n1,1579982,982977,8000.0,=,nM,107934,9777,Enzyme,12.68,7.93,basic,basic,neutral,0.64
+929611,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5SCCOc5cn4)c2n1,1579982,982977,8000.0,=,nM,107934,9778,Enzyme,12.68,7.93,basic,basic,neutral,0.64
+929612,COc1cnc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579944,982964,30.0,=,nM,107908,9724,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929613,COc1cnc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579944,982977,2000.0,=,nM,107934,9777,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929614,COc1cnc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579944,982977,2000.0,=,nM,107934,9778,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929615,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579941,982964,30.0,=,nM,107908,9724,Enzyme,11.52,7.66,basic,basic,neutral,0.64
+929616,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579941,982977,500.0,=,nM,107934,9777,Enzyme,11.52,7.66,basic,basic,neutral,0.64
+929617,COc1ccc2ncc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579941,982977,500.0,=,nM,107934,9778,Enzyme,11.52,7.66,basic,basic,neutral,0.64
+929618,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580001,982964,30.0,=,nM,107908,9724,Enzyme,11.52,7.66,basic,basic,neutral,0.64
+929619,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580001,982977,2000.0,=,nM,107934,9777,Enzyme,11.52,7.66,basic,basic,neutral,0.64
+929620,COc1cnc2ccc(F)c([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580001,982977,2000.0,=,nM,107934,9778,Enzyme,11.52,7.66,basic,basic,neutral,0.64
+929621,COc1ccc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579998,982964,30.0,=,nM,107908,9724,Enzyme,11.53,7.66,basic,basic,neutral,1.33
+929622,COc1ccc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579998,982977,500.0,=,nM,107934,9777,Enzyme,11.53,7.66,basic,basic,neutral,1.33
+929623,COc1ccc2cccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579998,982977,500.0,=,nM,107934,9778,Enzyme,11.53,7.66,basic,basic,neutral,1.33
+929624,COc1ccc2nccc([C@H](O)[C@@H](O)[C@H]3CC[C@@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579997,982964,30.0,=,nM,107908,9724,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929625,COc1ccc2nccc([C@H](O)[C@@H](O)[C@H]3CC[C@@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579997,982977,8000.0,=,nM,107934,9777,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929626,COc1ccc2nccc([C@H](O)[C@@H](O)[C@H]3CC[C@@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579997,982977,8000.0,=,nM,107934,9778,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929627,COc1ccc2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579994,982964,30.0,=,nM,107908,9724,Enzyme,12.82,7.86,basic,basic,neutral,0.02
+929628,COc1ccc2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579994,982977,8000.0,=,nM,107934,9777,Enzyme,12.82,7.86,basic,basic,neutral,0.02
+929629,COc1ccc2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4cc5OCCOc5cn4)c2n1,1579994,982977,8000.0,=,nM,107934,9778,Enzyme,12.82,7.86,basic,basic,neutral,0.02
+929630,COc1ccc2nccc(CC[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579991,982964,30.0,=,nM,107908,9724,Enzyme,11.55,7.66,basic,basic,neutral,2.49
+929631,COc1ccc2nccc(CC[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579991,982977,500.0,=,nM,107934,9777,Enzyme,11.55,7.66,basic,basic,neutral,2.49
+929632,COc1ccc2nccc(CC[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579991,982977,500.0,=,nM,107934,9778,Enzyme,11.55,7.66,basic,basic,neutral,2.49
+929633,F[C@@H]1CN(CCN2C(=O)C=Cc3ccc(cc23)C#N)CC[C@@H]1NCc4cc5OCCOc5cn4,1428497,982964,30.0,=,nM,107908,9724,Enzyme,,7.23,basic,neutral,neutral,1.06
+929634,F[C@@H]1CN(CCN2C(=O)C=Cc3ccc(cc23)C#N)CC[C@@H]1NCc4cc5OCCOc5cn4,1428497,982977,8000.0,=,nM,107934,9777,Enzyme,,7.23,basic,neutral,neutral,1.06
+929635,F[C@@H]1CN(CCN2C(=O)C=Cc3ccc(cc23)C#N)CC[C@@H]1NCc4cc5OCCOc5cn4,1428497,982977,8000.0,=,nM,107934,9778,Enzyme,,7.23,basic,neutral,neutral,1.06
+929636,COc1ccc2nccc(NC(=O)[C@@H]3CC[C@H](CC3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580002,982964,30.0,=,nM,107908,9724,Enzyme,11.38,8.18,basic,basic,neutral,1.62
+929637,COc1ccc2nccc(NC(=O)[C@@H]3CC[C@H](CC3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580002,982977,125.0,=,nM,107934,9777,Enzyme,11.38,8.18,basic,basic,neutral,1.62
+929638,COc1ccc2nccc(NC(=O)[C@@H]3CC[C@H](CC3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1580002,982977,125.0,=,nM,107934,9778,Enzyme,11.38,8.18,basic,basic,neutral,1.62
+929639,Nc1cc(Br)ccc1NC(=O)c2ccc(CNc3nccc(n3)c4cccnc4)cc2,1572147,973950,4720.0,=,nM,107910,9729,Epigenetic regulator,13.79,4.34,neutral,neutral,neutral,3.77
+929640,Nc1cc2ccccc2cc1NC(=O)c3ccc(CNc4nccc(n4)c5cccnc5)cc3,1572145,973950,630.0,=,nM,107910,9729,Epigenetic regulator,13.73,4.36,neutral,neutral,neutral,3.99
+929641,C[C@H]1NC(=O)[C@@H](C)NC(=O)[C@@H](C)[C@@H](C\C=C/CCC(=O)N)NC(=O)[C@@H](Cc2ccccc2)NC1=O,425560,979440,3700.0,=,nM,107910,9729,Epigenetic regulator,10.91,-1.19,neutral,neutral,neutral,-0.05
+929642,CC(C)[C@H]1NC(=O)[C@@H](C)[C@@H](C\C=C/CCC(=O)N)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](C)NC1=O,425611,979440,3200.0,=,nM,107910,9729,Epigenetic regulator,10.94,-0.85,neutral,neutral,neutral,0.84
+929643,COc1ccc(CNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1OC,1562685,960954,4990.0,=,nM,107911,9731,Enzyme,,8.77,basic,basic,basic,1.57
+929644,COc1ccc(CNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1OC,1562685,960954,4990.0,=,nM,107911,9732,Enzyme,,8.77,basic,basic,basic,1.57
+929645,COc1cccc(CNCCN2C(=O)c3cccc4cccc(C2=O)c34)c1,1562684,960954,6220.0,=,nM,107911,9731,Enzyme,,8.85,basic,basic,basic,1.65
+929646,COc1cccc(CNCCN2C(=O)c3cccc4cccc(C2=O)c34)c1,1562684,960954,6220.0,=,nM,107911,9732,Enzyme,,8.85,basic,basic,basic,1.65
+929647,COc1ccc(CNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562683,960954,630.0,=,nM,107911,9731,Enzyme,,8.91,basic,basic,basic,1.59
+929648,COc1ccc(CNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562683,960954,630.0,=,nM,107911,9732,Enzyme,,8.91,basic,basic,basic,1.59
+929649,COc1ccc(NCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)c(OC)c1,1562682,960954,4630.0,=,nM,107911,9731,Enzyme,,8.89,basic,basic,basic,1.0
+929650,COc1ccc(NCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)c(OC)c1,1562682,960954,4630.0,=,nM,107911,9732,Enzyme,,8.89,basic,basic,basic,1.0
+929651,COc1ccc(NCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562680,960954,1080.0,=,nM,107911,9731,Enzyme,,8.93,basic,basic,basic,1.12
+929652,COc1ccc(NCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562680,960954,1080.0,=,nM,107911,9732,Enzyme,,8.93,basic,basic,basic,1.12
+929653,COC(=O)c1ccc(OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562703,960954,4200.0,=,nM,107911,9731,Enzyme,,8.79,basic,basic,basic,1.79
+929654,COC(=O)c1ccc(OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562703,960954,4200.0,=,nM,107911,9732,Enzyme,,8.79,basic,basic,basic,1.79
+929655,O=C1N(CCNCCOc2ccc3OCOc3c2)C(=O)c4cccc5cccc1c45,1562701,960954,3000.0,=,nM,107911,9731,Enzyme,,8.82,basic,basic,basic,1.38
+929656,O=C1N(CCNCCOc2ccc3OCOc3c2)C(=O)c4cccc5cccc1c45,1562701,960954,3000.0,=,nM,107911,9732,Enzyme,,8.82,basic,basic,basic,1.38
+929657,COc1ccc(OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1OC,1562700,960954,690.0,=,nM,107911,9731,Enzyme,,8.83,basic,basic,basic,1.44
+929658,COc1ccc(OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1OC,1562700,960954,690.0,=,nM,107911,9732,Enzyme,,8.83,basic,basic,basic,1.44
+929659,COc1cccc(OCCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)c1,1562698,960954,4390.0,=,nM,107911,9731,Enzyme,,9.41,basic,basic,basic,1.1
+929660,COc1cccc(OCCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)c1,1562698,960954,4390.0,=,nM,107911,9732,Enzyme,,9.41,basic,basic,basic,1.1
+929661,COc1ccc(OCCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562697,960954,1230.0,=,nM,107911,9731,Enzyme,,9.41,basic,basic,basic,1.1
+929662,COc1ccc(OCCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562697,960954,1230.0,=,nM,107911,9732,Enzyme,,9.41,basic,basic,basic,1.1
+929663,COc1ccc(SCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562696,960954,1130.0,=,nM,107911,9731,Enzyme,,8.91,basic,basic,basic,2.04
+929664,COc1ccc(SCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562696,960954,1130.0,=,nM,107911,9732,Enzyme,,8.91,basic,basic,basic,2.04
+929665,COc1ccccc1OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34,1562695,960954,1350.0,=,nM,107911,9731,Enzyme,,8.79,basic,basic,basic,1.63
+929666,COc1ccccc1OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34,1562695,960954,1350.0,=,nM,107911,9732,Enzyme,,8.79,basic,basic,basic,1.63
+929667,COc1cccc(OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)c1,1562694,960954,930.0,=,nM,107911,9731,Enzyme,,8.81,basic,basic,basic,1.61
+929668,COc1cccc(OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)c1,1562694,960954,930.0,=,nM,107911,9732,Enzyme,,8.81,basic,basic,basic,1.61
+929669,COc1ccc(OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562693,960954,1040.0,=,nM,107911,9731,Enzyme,,8.84,basic,basic,basic,1.58
+929670,COc1ccc(OCCNCCN2C(=O)c3cccc4cccc(C2=O)c34)cc1,1562693,960954,1040.0,=,nM,107911,9732,Enzyme,,8.84,basic,basic,basic,1.58
+929671,CN(C)CCN1C(=O)c2cccc3cccc(C1=O)c23,24040,960954,2810.0,=,nM,107911,9731,Enzyme,,8.52,basic,basic,basic,0.78
+929672,CN(C)CCN1C(=O)c2cccc3cccc(C1=O)c23,24040,960954,2810.0,=,nM,107911,9732,Enzyme,,8.52,basic,basic,basic,0.78
+929673,OCCN1C(=O)c2cccc3cccc(C1=O)c23,64967,960954,30870.0,=,nM,107911,9731,Enzyme,15.55,-2.56,neutral,neutral,neutral,1.22
+929674,OCCN1C(=O)c2cccc3cccc(C1=O)c23,64967,960954,30870.0,=,nM,107911,9732,Enzyme,15.55,-2.56,neutral,neutral,neutral,1.22
+929675,NCCCN1C(=O)c2cccc3cccc(C1=O)c23,624524,960954,29080.0,=,nM,107911,9731,Enzyme,,9.77,basic,basic,basic,-1.11
+929676,NCCCN1C(=O)c2cccc3cccc(C1=O)c23,624524,960954,29080.0,=,nM,107911,9732,Enzyme,,9.77,basic,basic,basic,-1.11
+929677,NCCN1C(=O)c2cccc3cccc(C1=O)c23,65485,960954,2090.0,=,nM,107911,9731,Enzyme,,9.14,basic,basic,basic,-0.62
+929678,NCCN1C(=O)c2cccc3cccc(C1=O)c23,65485,960954,2090.0,=,nM,107911,9732,Enzyme,,9.14,basic,basic,basic,-0.62
+929679,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)cc1Cl,1573525,972867,610.0,=,nM,107914,9737,Ion channel,11.55,1.95,neutral,neutral,neutral,5.4
+929680,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)cc1Cl,1573525,972867,610.0,=,nM,107914,9738,Ion channel,11.55,1.95,neutral,neutral,neutral,5.4
+929681,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)cc1Cl,1573525,972869,1900.0,=,nM,107915,9739,Ion channel,11.55,1.95,neutral,neutral,neutral,5.4
+929682,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)cc1Cl,1573525,972869,1900.0,=,nM,107915,9740,Ion channel,11.55,1.95,neutral,neutral,neutral,5.4
+929683,Brc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573524,972867,720.0,=,nM,107914,9737,Ion channel,11.44,1.95,neutral,neutral,neutral,5.42
+929684,Brc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573524,972867,720.0,=,nM,107914,9738,Ion channel,11.44,1.95,neutral,neutral,neutral,5.42
+929685,Brc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573524,972869,1900.0,=,nM,107915,9739,Ion channel,11.44,1.95,neutral,neutral,neutral,5.42
+929686,Brc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573524,972869,1900.0,=,nM,107915,9740,Ion channel,11.44,1.95,neutral,neutral,neutral,5.42
+929687,FC(F)(F)c1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573523,972867,690.0,=,nM,107914,9737,Ion channel,11.45,1.95,neutral,neutral,neutral,5.53
+929688,FC(F)(F)c1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573523,972867,690.0,=,nM,107914,9738,Ion channel,11.45,1.95,neutral,neutral,neutral,5.53
+929689,FC(F)(F)c1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573523,972869,1300.0,=,nM,107915,9739,Ion channel,11.45,1.95,neutral,neutral,neutral,5.53
+929690,FC(F)(F)c1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573523,972869,1300.0,=,nM,107915,9740,Ion channel,11.45,1.95,neutral,neutral,neutral,5.53
+929691,Clc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573522,972867,480.0,=,nM,107914,9737,Ion channel,11.41,1.95,neutral,neutral,neutral,5.25
+929692,Clc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573522,972867,480.0,=,nM,107914,9738,Ion channel,11.41,1.95,neutral,neutral,neutral,5.25
+929693,Clc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573522,972869,1400.0,=,nM,107915,9739,Ion channel,11.41,1.95,neutral,neutral,neutral,5.25
+929694,Clc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)c1,1573522,972869,1400.0,=,nM,107915,9740,Ion channel,11.41,1.95,neutral,neutral,neutral,5.25
+929695,Clc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573521,972867,340.0,=,nM,107914,9737,Ion channel,11.41,2.05,neutral,neutral,neutral,5.0
+929696,Clc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573521,972867,340.0,=,nM,107914,9738,Ion channel,11.41,2.05,neutral,neutral,neutral,5.0
+929697,Clc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573521,972869,630.0,=,nM,107915,9739,Ion channel,11.41,2.05,neutral,neutral,neutral,5.0
+929698,Clc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573521,972869,630.0,=,nM,107915,9740,Ion channel,11.41,2.05,neutral,neutral,neutral,5.0
+929699,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1Cl,1573520,972867,310.0,=,nM,107914,9737,Ion channel,11.55,2.05,neutral,neutral,neutral,5.14
+929700,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1Cl,1573520,972867,310.0,=,nM,107914,9738,Ion channel,11.55,2.05,neutral,neutral,neutral,5.14
+929701,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1Cl,1573520,972869,810.0,=,nM,107915,9739,Ion channel,11.55,2.05,neutral,neutral,neutral,5.14
+929702,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1Cl,1573520,972869,810.0,=,nM,107915,9740,Ion channel,11.55,2.05,neutral,neutral,neutral,5.14
+929703,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1,1573519,972867,270.0,=,nM,107914,9737,Ion channel,11.66,2.05,neutral,neutral,neutral,4.54
+929704,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1,1573519,972867,270.0,=,nM,107914,9738,Ion channel,11.66,2.05,neutral,neutral,neutral,4.54
+929705,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1,1573519,972869,640.0,=,nM,107915,9739,Ion channel,11.66,2.05,neutral,neutral,neutral,4.54
+929706,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1,1573519,972869,640.0,=,nM,107915,9740,Ion channel,11.66,2.05,neutral,neutral,neutral,4.54
+929707,FC(F)(F)c1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573518,972867,250.0,=,nM,107914,9737,Ion channel,11.45,2.05,neutral,neutral,neutral,5.27
+929708,FC(F)(F)c1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573518,972867,250.0,=,nM,107914,9738,Ion channel,11.45,2.05,neutral,neutral,neutral,5.27
+929709,FC(F)(F)c1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573518,972869,540.0,=,nM,107915,9739,Ion channel,11.45,2.05,neutral,neutral,neutral,5.27
+929710,FC(F)(F)c1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573518,972869,540.0,=,nM,107915,9740,Ion channel,11.45,2.05,neutral,neutral,neutral,5.27
+929711,Fc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573690,972867,180.0,=,nM,107914,9737,Ion channel,11.3,2.05,neutral,neutral,neutral,4.54
+929712,Fc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573690,972867,180.0,=,nM,107914,9738,Ion channel,11.3,2.05,neutral,neutral,neutral,4.54
+929713,Fc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573690,972869,450.0,=,nM,107915,9739,Ion channel,11.3,2.05,neutral,neutral,neutral,4.54
+929714,Fc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573690,972869,450.0,=,nM,107915,9740,Ion channel,11.3,2.05,neutral,neutral,neutral,4.54
+929715,Cc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573555,972867,250.0,=,nM,107914,9737,Ion channel,11.56,2.05,neutral,neutral,neutral,4.91
+929716,Cc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573555,972867,250.0,=,nM,107914,9738,Ion channel,11.56,2.05,neutral,neutral,neutral,4.91
+929717,Cc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573555,972869,520.0,=,nM,107915,9739,Ion channel,11.56,2.05,neutral,neutral,neutral,4.91
+929718,Cc1cccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)c1,1573555,972869,520.0,=,nM,107915,9740,Ion channel,11.56,2.05,neutral,neutral,neutral,4.91
+929719,CC(C)c1cc(NC(=O)Nc2ccc(C)cc2)n(n1)c3ccccc3,1573546,972867,1800.0,=,nM,107914,9737,Ion channel,11.68,2.0,neutral,neutral,neutral,5.18
+929720,CC(C)c1cc(NC(=O)Nc2ccc(C)cc2)n(n1)c3ccccc3,1573546,972867,1800.0,=,nM,107914,9738,Ion channel,11.68,2.0,neutral,neutral,neutral,5.18
+929721,CC(C)c1cc(NC(=O)Nc2ccc(C)cc2)n(n1)c3ccccc3,1573546,972869,3900.0,=,nM,107915,9739,Ion channel,11.68,2.0,neutral,neutral,neutral,5.18
+929722,CC(C)c1cc(NC(=O)Nc2ccc(C)cc2)n(n1)c3ccccc3,1573546,972869,3900.0,=,nM,107915,9740,Ion channel,11.68,2.0,neutral,neutral,neutral,5.18
+929723,CC(C)c1cc(NC(=O)Nc2cccc(C)c2)n(n1)c3ccccc3,1573545,972867,850.0,=,nM,107914,9737,Ion channel,11.56,2.0,neutral,neutral,neutral,5.18
+929724,CC(C)c1cc(NC(=O)Nc2cccc(C)c2)n(n1)c3ccccc3,1573545,972867,850.0,=,nM,107914,9738,Ion channel,11.56,2.0,neutral,neutral,neutral,5.18
+929725,CC(C)c1cc(NC(=O)Nc2cccc(C)c2)n(n1)c3ccccc3,1573545,972869,2600.0,=,nM,107915,9739,Ion channel,11.56,2.0,neutral,neutral,neutral,5.18
+929726,CC(C)c1cc(NC(=O)Nc2cccc(C)c2)n(n1)c3ccccc3,1573545,972869,2600.0,=,nM,107915,9740,Ion channel,11.56,2.0,neutral,neutral,neutral,5.18
+929727,CC(C)c1cc(NC(=O)Nc2cccc(F)c2)n(n1)c3ccccc3,1573544,972867,780.0,=,nM,107914,9737,Ion channel,11.3,2.0,neutral,neutral,neutral,4.81
+929728,CC(C)c1cc(NC(=O)Nc2cccc(F)c2)n(n1)c3ccccc3,1573544,972867,780.0,=,nM,107914,9738,Ion channel,11.3,2.0,neutral,neutral,neutral,4.81
+929729,CC(C)c1cc(NC(=O)Nc2cccc(F)c2)n(n1)c3ccccc3,1573544,972869,2100.0,=,nM,107915,9739,Ion channel,11.3,2.0,neutral,neutral,neutral,4.81
+929730,CC(C)c1cc(NC(=O)Nc2cccc(F)c2)n(n1)c3ccccc3,1573544,972869,2100.0,=,nM,107915,9740,Ion channel,11.3,2.0,neutral,neutral,neutral,4.81
+929731,CC(C)c1cc(NC(=O)Nc2cccc(c2)C(F)(F)F)n(n1)c3ccccc3,1573543,972867,1300.0,=,nM,107914,9737,Ion channel,11.45,2.0,neutral,neutral,neutral,5.55
+929732,CC(C)c1cc(NC(=O)Nc2cccc(c2)C(F)(F)F)n(n1)c3ccccc3,1573543,972867,1300.0,=,nM,107914,9738,Ion channel,11.45,2.0,neutral,neutral,neutral,5.55
+929733,CC(C)c1cc(NC(=O)Nc2cccc(c2)C(F)(F)F)n(n1)c3ccccc3,1573543,972869,2100.0,=,nM,107915,9739,Ion channel,11.45,2.0,neutral,neutral,neutral,5.55
+929734,CC(C)c1cc(NC(=O)Nc2cccc(c2)C(F)(F)F)n(n1)c3ccccc3,1573543,972869,2100.0,=,nM,107915,9740,Ion channel,11.45,2.0,neutral,neutral,neutral,5.55
+929735,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1F,1573538,972867,560.0,=,nM,107914,9737,Ion channel,11.44,2.05,neutral,neutral,neutral,4.68
+929736,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1F,1573538,972867,560.0,=,nM,107914,9738,Ion channel,11.44,2.05,neutral,neutral,neutral,4.68
+929737,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1F,1573538,972869,650.0,=,nM,107915,9739,Ion channel,11.44,2.05,neutral,neutral,neutral,4.68
+929738,Fc1ccc(NC(=O)Nc2cc(CC3CC3)nn2c4ccccc4)cc1F,1573538,972869,650.0,=,nM,107915,9740,Ion channel,11.44,2.05,neutral,neutral,neutral,4.68
+929739,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C(F)(F)F)cc1F,1573537,972867,30000.0,=,nM,107914,9737,Ion channel,11.41,-0.72,neutral,neutral,neutral,4.84
+929740,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C(F)(F)F)cc1F,1573537,972867,30000.0,=,nM,107914,9738,Ion channel,11.41,-0.72,neutral,neutral,neutral,4.84
+929741,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C(F)(F)F)cc1F,1573537,972869,30000.0,=,nM,107915,9739,Ion channel,11.41,-0.72,neutral,neutral,neutral,4.84
+929742,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C(F)(F)F)cc1F,1573537,972869,30000.0,=,nM,107915,9740,Ion channel,11.41,-0.72,neutral,neutral,neutral,4.84
+929743,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCCC4)cc1F,1573536,972867,4100.0,=,nM,107914,9737,Ion channel,11.44,1.95,neutral,neutral,neutral,5.38
+929744,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCCC4)cc1F,1573536,972867,4100.0,=,nM,107914,9738,Ion channel,11.44,1.95,neutral,neutral,neutral,5.38
+929745,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCCC4)cc1F,1573536,972869,5100.0,=,nM,107915,9739,Ion channel,11.44,1.95,neutral,neutral,neutral,5.38
+929746,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCCC4)cc1F,1573536,972869,5100.0,=,nM,107915,9740,Ion channel,11.44,1.95,neutral,neutral,neutral,5.38
+929747,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)cc1F,1573535,972867,30000.0,=,nM,107914,9737,Ion channel,11.44,1.95,neutral,neutral,neutral,4.93
+929748,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)cc1F,1573535,972867,30000.0,=,nM,107914,9738,Ion channel,11.44,1.95,neutral,neutral,neutral,4.93
+929749,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)cc1F,1573535,972869,30000.0,=,nM,107915,9739,Ion channel,11.44,1.95,neutral,neutral,neutral,4.93
+929750,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CCC4)cc1F,1573535,972869,30000.0,=,nM,107915,9740,Ion channel,11.44,1.95,neutral,neutral,neutral,4.93
+929751,CC(C)c1cc(NC(=O)Nc2ccc(F)c(F)c2)n(n1)c3ccccc3,1573534,972867,1400.0,=,nM,107914,9737,Ion channel,11.44,2.0,neutral,neutral,neutral,4.95
+929752,CC(C)c1cc(NC(=O)Nc2ccc(F)c(F)c2)n(n1)c3ccccc3,1573534,972867,1400.0,=,nM,107914,9738,Ion channel,11.44,2.0,neutral,neutral,neutral,4.95
+929753,CC(C)c1cc(NC(=O)Nc2ccc(F)c(F)c2)n(n1)c3ccccc3,1573534,972869,2000.0,=,nM,107915,9739,Ion channel,11.44,2.0,neutral,neutral,neutral,4.95
+929754,CC(C)c1cc(NC(=O)Nc2ccc(F)c(F)c2)n(n1)c3ccccc3,1573534,972869,2000.0,=,nM,107915,9740,Ion channel,11.44,2.0,neutral,neutral,neutral,4.95
+929755,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)c4ccccc4)cc1F,1573532,972867,30000.0,=,nM,107914,9737,Ion channel,11.43,1.28,neutral,neutral,neutral,5.61
+929756,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)c4ccccc4)cc1F,1573532,972867,30000.0,=,nM,107914,9738,Ion channel,11.43,1.28,neutral,neutral,neutral,5.61
+929757,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)c4ccccc4)cc1F,1573532,972869,30000.0,=,nM,107915,9739,Ion channel,11.43,1.28,neutral,neutral,neutral,5.61
+929758,Fc1ccc(NC(=O)Nc2cc(nn2c3ccccc3)c4ccccc4)cc1F,1573532,972869,30000.0,=,nM,107915,9740,Ion channel,11.43,1.28,neutral,neutral,neutral,5.61
+929759,CSc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CC4)c1,1573542,972869,950.0,=,nM,107915,9739,Ion channel,11.46,1.95,neutral,neutral,neutral,4.83
+929760,CSc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CC4)c1,1573542,972869,950.0,=,nM,107915,9740,Ion channel,11.46,1.95,neutral,neutral,neutral,4.83
+929761,Fc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CC4)c1,1573541,972869,1200.0,=,nM,107915,9739,Ion channel,11.3,1.95,neutral,neutral,neutral,4.35
+929762,Fc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CC4)c1,1573541,972869,1200.0,=,nM,107915,9740,Ion channel,11.3,1.95,neutral,neutral,neutral,4.35
+929763,Cc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CC4)c1,1573539,972869,850.0,=,nM,107915,9739,Ion channel,11.56,1.95,neutral,neutral,neutral,4.72
+929764,Cc1cccc(NC(=O)Nc2cc(nn2c3ccccc3)C4CC4)c1,1573539,972869,850.0,=,nM,107915,9740,Ion channel,11.56,1.95,neutral,neutral,neutral,4.72
+929765,OC(=O)[C@@H]1CCCC[C@@H]1C(=O)N2CCc3ccccc3C2CN4C(=O)c5ccccc5C4=O,884641,960285,3000.0,=,nM,107924,9757,Unclassified protein,3.97,-0.19,acidic,acidic,acidic,0.15
+929766,OC(=O)[C@@H]1CCCC[C@@H]1C(=O)N2CCc3ccccc3C2CN4C(=O)c5ccccc5C4=O,884641,960285,3000.0,=,nM,107924,9758,Unclassified protein,3.97,-0.19,acidic,acidic,acidic,0.15
+929767,Nc1ncc(c2cnn(c2)C3CCNCC3)c4cc(oc14)c5cccc6ccsc56,1572172,973093,1200.0,=,nM,107925,9759,Enzyme,18.16,10.12,basic,basic,basic,0.23
+929768,Nc1ncc(c2cnn(c2)C3CCNCC3)c4cc(oc14)c5cccc6ccsc56,1572172,973093,1200.0,=,nM,107925,9760,Unclassified protein,18.16,10.12,basic,basic,basic,0.23
+929769,Nc1ncc(c2cnn(c2)C3CCNCC3)c4cc(oc14)c5ccccc5,1572171,973093,2700.0,=,nM,107925,9759,Enzyme,18.2,10.12,basic,basic,basic,-0.65
+929770,Nc1ncc(c2cnn(c2)C3CCNCC3)c4cc(oc14)c5ccccc5,1572171,973093,2700.0,=,nM,107925,9760,Unclassified protein,18.2,10.12,basic,basic,basic,-0.65
+929771,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5ccc(cc5)S(=O)(=O)C,1572180,973093,25700.0,=,nM,107925,9759,Enzyme,18.18,5.48,neutral,neutral,neutral,0.41
+929772,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5ccc(cc5)S(=O)(=O)C,1572180,973093,25700.0,=,nM,107925,9760,Unclassified protein,18.18,5.48,neutral,neutral,neutral,0.41
+929773,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5ccc(NS(=O)(=O)C)cc5,1572182,973093,4900.0,=,nM,107925,9759,Enzyme,9.15,5.49,neutral,neutral,neutral,-0.06
+929774,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5ccc(NS(=O)(=O)C)cc5,1572182,973093,4900.0,=,nM,107925,9760,Unclassified protein,9.15,5.49,neutral,neutral,neutral,-0.06
+929775,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5CCCC5,1572372,973093,2100.0,=,nM,107925,9759,Enzyme,18.33,5.62,neutral,neutral,neutral,1.51
+929776,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5CCCC5,1572372,973093,2100.0,=,nM,107925,9760,Unclassified protein,18.33,5.62,neutral,neutral,neutral,1.51
+929777,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cccc(c5)S(=O)(=O)N,1572196,973093,1800.0,=,nM,107925,9759,Enzyme,10.04,5.48,neutral,neutral,neutral,0.18
+929778,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cccc(c5)S(=O)(=O)N,1572196,973093,1800.0,=,nM,107925,9760,Unclassified protein,10.04,5.48,neutral,neutral,neutral,0.18
+929779,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cnn(C)c5,1572375,973093,1600.0,=,nM,107925,9759,Enzyme,18.13,5.44,neutral,neutral,neutral,-0.0
+929780,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cnn(C)c5,1572375,973093,1600.0,=,nM,107925,9760,Unclassified protein,18.13,5.44,neutral,neutral,neutral,-0.0
+929781,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cnc6cnccn56,1572170,973093,1400.0,=,nM,107925,9759,Enzyme,18.09,5.39,neutral,neutral,neutral,-0.94
+929782,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cnc6cnccn56,1572170,973093,1400.0,=,nM,107925,9760,Unclassified protein,18.09,5.39,neutral,neutral,neutral,-0.94
+929783,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5ocnc5,1572376,973093,1200.0,=,nM,107925,9759,Enzyme,17.96,5.29,neutral,neutral,neutral,-0.57
+929784,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5ocnc5,1572376,973093,1200.0,=,nM,107925,9760,Unclassified protein,17.96,5.29,neutral,neutral,neutral,-0.57
+929785,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5=CCCC5,1572371,973093,1200.0,=,nM,107925,9759,Enzyme,18.23,5.51,neutral,neutral,neutral,1.33
+929786,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5=CCCC5,1572371,973093,1200.0,=,nM,107925,9760,Unclassified protein,18.23,5.51,neutral,neutral,neutral,1.33
+929787,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cnsc5,1572184,973093,880.0,=,nM,107925,9759,Enzyme,18.13,5.44,neutral,neutral,neutral,0.54
+929788,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cnsc5,1572184,973093,880.0,=,nM,107925,9760,Unclassified protein,18.13,5.44,neutral,neutral,neutral,0.54
+929789,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5=CCNCC5,1572368,973093,800.0,=,nM,107925,9759,Enzyme,18.22,9.41,basic,basic,basic,-2.07
+929790,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5=CCNCC5,1572368,973093,800.0,=,nM,107925,9760,Unclassified protein,18.22,9.41,basic,basic,basic,-2.07
+929791,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cccnc5,1572367,973093,710.0,=,nM,107925,9759,Enzyme,18.16,5.48,neutral,neutral,neutral,0.35
+929792,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5cccnc5,1572367,973093,710.0,=,nM,107925,9760,Unclassified protein,18.16,5.48,neutral,neutral,neutral,0.35
+929793,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5CCCCC5,1572370,973093,650.0,=,nM,107925,9759,Enzyme,18.33,5.62,neutral,neutral,neutral,1.96
+929794,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5CCCCC5,1572370,973093,650.0,=,nM,107925,9760,Unclassified protein,18.33,5.62,neutral,neutral,neutral,1.96
+929795,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5ccsc5,1572373,973093,480.0,=,nM,107925,9759,Enzyme,18.18,5.47,neutral,neutral,neutral,1.35
+929796,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)c5ccsc5,1572373,973093,480.0,=,nM,107925,9760,Unclassified protein,18.18,5.47,neutral,neutral,neutral,1.35
+929797,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5=CCCCC5,1572369,973093,460.0,=,nM,107925,9759,Enzyme,18.23,5.51,neutral,neutral,neutral,1.77
+929798,CC(=O)N1CCC(CC1)n2cc(cn2)c3cnc(N)c4oc(cc34)C5=CCCCC5,1572369,973093,460.0,=,nM,107925,9760,Unclassified protein,18.23,5.51,neutral,neutral,neutral,1.77
+929799,Nc1ncc(C2=CCNCC2)c3cc(oc13)c4csc5cnccc45,1573145,973540,23600.0,=,nM,107925,9759,Enzyme,18.67,9.55,basic,basic,basic,-0.23
+929800,Nc1ncc(C2=CCNCC2)c3cc(oc13)c4csc5cnccc45,1573145,973540,23600.0,=,nM,107925,9760,Unclassified protein,18.67,9.55,basic,basic,basic,-0.23
+929801,Cn1cc(c2cnc(N)c3oc(cc23)c4csc5cnccc45)c(n1)C#N,1573151,973540,22800.0,=,nM,107925,9759,Enzyme,17.92,5.39,neutral,neutral,neutral,2.22
+929802,Cn1cc(c2cnc(N)c3oc(cc23)c4csc5cnccc45)c(n1)C#N,1573151,973540,22800.0,=,nM,107925,9760,Unclassified protein,17.92,5.39,neutral,neutral,neutral,2.22
+929803,Cn1cnc(c1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573034,973540,12700.0,=,nM,107925,9759,Enzyme,17.86,5.82,neutral,neutral,neutral,2.03
+929804,Cn1cnc(c1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573034,973540,12700.0,=,nM,107925,9760,Unclassified protein,17.86,5.82,neutral,neutral,neutral,2.03
+929805,Cn1ccc(c1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573033,973540,4900.0,=,nM,107925,9759,Enzyme,18.43,5.55,neutral,neutral,neutral,2.85
+929806,Cn1ccc(c1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573033,973540,4900.0,=,nM,107925,9760,Unclassified protein,18.43,5.55,neutral,neutral,neutral,2.85
+929807,Cc1ccc(s1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573140,973540,4600.0,=,nM,107925,9759,Enzyme,18.13,5.38,neutral,neutral,neutral,3.97
+929808,Cc1ccc(s1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573140,973540,4600.0,=,nM,107925,9760,Unclassified protein,18.13,5.38,neutral,neutral,neutral,3.97
+929809,Nc1ncc(c2cccnc2)c3cc(oc13)c4csc5cnccc45,1573144,973540,3800.0,=,nM,107925,9759,Enzyme,18.35,5.58,neutral,neutral,neutral,2.33
+929810,Nc1ncc(c2cccnc2)c3cc(oc13)c4csc5cnccc45,1573144,973540,3800.0,=,nM,107925,9760,Unclassified protein,18.35,5.58,neutral,neutral,neutral,2.33
+929811,Nc1ncc(c2ccccc2)c3cc(oc13)c4csc5cnccc45,1573143,973540,3200.0,=,nM,107925,9759,Enzyme,18.59,5.6,neutral,neutral,neutral,3.55
+929812,Nc1ncc(c2ccccc2)c3cc(oc13)c4csc5cnccc45,1573143,973540,3200.0,=,nM,107925,9760,Unclassified protein,18.59,5.6,neutral,neutral,neutral,3.55
+929813,COCC#Cc1cnc(N)c2oc(cc12)c3csc4cnccc34,1573146,973540,2900.0,=,nM,107925,9759,Enzyme,18.91,4.94,neutral,neutral,neutral,2.25
+929814,COCC#Cc1cnc(N)c2oc(cc12)c3csc4cnccc34,1573146,973540,2900.0,=,nM,107925,9760,Unclassified protein,18.91,4.94,neutral,neutral,neutral,2.25
+929815,Nc1ncc(c2ccsc2)c3cc(oc13)c4csc5cnccc45,1573139,973540,2200.0,=,nM,107925,9759,Enzyme,18.42,5.56,neutral,neutral,neutral,3.33
+929816,Nc1ncc(c2ccsc2)c3cc(oc13)c4csc5cnccc45,1573139,973540,2200.0,=,nM,107925,9760,Unclassified protein,18.42,5.56,neutral,neutral,neutral,3.33
+929817,Cc1oc(cc1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573138,973540,2100.0,=,nM,107925,9759,Enzyme,17.85,5.17,neutral,neutral,neutral,2.81
+929818,Cc1oc(cc1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573138,973540,2100.0,=,nM,107925,9760,Unclassified protein,17.85,5.17,neutral,neutral,neutral,2.81
+929819,Nc1ncc(c2cscn2)c3cc(oc13)c4csc5cnccc45,1573141,973540,1400.0,=,nM,107925,9759,Enzyme,17.85,5.21,neutral,neutral,neutral,2.59
+929820,Nc1ncc(c2cscn2)c3cc(oc13)c4csc5cnccc45,1573141,973540,1400.0,=,nM,107925,9760,Unclassified protein,17.85,5.21,neutral,neutral,neutral,2.59
+929821,Nc1ncc(c2cocc2)c3cc(oc13)c4csc5cnccc45,1573137,973540,560.0,=,nM,107925,9759,Enzyme,18.24,5.5,neutral,neutral,neutral,2.69
+929822,Nc1ncc(c2cocc2)c3cc(oc13)c4csc5cnccc45,1573137,973540,560.0,=,nM,107925,9760,Unclassified protein,18.24,5.5,neutral,neutral,neutral,2.69
+929823,Cc1ncc(s1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573142,973540,230.0,=,nM,107925,9759,Enzyme,17.9,5.31,neutral,neutral,neutral,2.33
+929824,Cc1ncc(s1)c2cnc(N)c3oc(cc23)c4csc5cnccc45,1573142,973540,230.0,=,nM,107925,9760,Unclassified protein,17.9,5.31,neutral,neutral,neutral,2.33
+929825,COc1ccc2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579993,982977,500.0,=,nM,107934,9777,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929826,COc1ccc2nccc([C@@H](O)[C@H](O)[C@@H]3CC[C@H](CO3)NCc4ccc5SCC(=O)Nc5n4)c2n1,1579993,982977,500.0,=,nM,107934,9778,Enzyme,11.53,7.66,basic,basic,neutral,0.5
+929827,O=C(Nc1cccc2cccnc12)c3ccc(cc3)N4C[C@@H]5[C@H]6C[C@H](C=C6)[C@@H]5C4,1583858,984408,131.0,=,nM,107941,9793,Enzyme,13.49,3.84,neutral,neutral,neutral,4.2
+929828,O=C(Nc1cccc2cccnc12)c3ccc(cc3)N4C[C@@H]5[C@H]6C[C@H](C=C6)[C@@H]5C4,1583858,984408,131.0,=,nM,107941,9794,Enzyme,13.49,3.84,neutral,neutral,neutral,4.2
